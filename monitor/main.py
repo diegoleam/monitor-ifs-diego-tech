@@ -36,7 +36,5 @@ def main():
             else:reconcile(name,found,valid)
         except Exception:
             LOG.exception('%s: falha isolada',name);errors.append(name)
-    if errors:
-        LOG.error('Portais com falha: %s', ', '.join(errors))
-        if args.mode=='test-latest':raise SystemExit(1)
+    if errors:raise SystemExit('Falha nos portais: '+', '.join(errors))
 if __name__=='__main__':main()
