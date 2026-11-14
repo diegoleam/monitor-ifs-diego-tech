@@ -1,0 +1,150 @@
+
+name: Diagnostico dos Portais IFs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnostico:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Diagnosticar portais oficiais
+        shell: bash
+        run: |
+          python - <<'PY'
+          import requests
+          from bs4 import BeautifulSoup
+          from urllib.parse import urljoin, urlparse
+
+          PORTAIS = {
+              "IFSertaoPE": "https://ifsertaope.edu.br/editais/",
+              "IFPB": "https://www.ifpb.edu.br/editais",
+              "COMPEC": "https://concursos.ifpb.edu.br/",
+          }
+
+          PALAVRAS = (
+              "edital", "concurso", "selecao",
+              "seleção", "inscricao", "inscrição",
+              "resultado", "retificacao", "retificação",
+              "convocacao", "convocação"
+          )
+
+          BLOQUEIOS = (
+              "radware captcha",
+              "access denied",
+              "verify you are human",
+              "captcha challenge"
+          )
+
+          falhas = 0
+
+          for nome, url in PORTAIS.items():
+              print(f"\n{'=' * 55}")
+              print(f"PORTAL: {nome}")
+              print(f"URL: {url}")
+
+              try:
+                  resposta = requests.get(
+                      url,
+                      timeout=30,
+                      headers={
+                          "User-Agent": "Mozilla/5.0"
+                      }
+                  )
+
+                  sopa = BeautifulSoup(
+                      resposta.text, "html.parser"
+                  )
+
+                  titulo = (
+                      sopa.title.get_text(" ", strip=True)
+                      if sopa.title else "Sem titulo"
+                  )
+
+                  texto = sopa.get_text(" ", strip=True)
+                  conteudo = (
+                      titulo + " " + texto[:5000]
+                  ).lower()
+
+                  bloqueado = any(
+                      palavra in conteudo
+                      for palavra in BLOQUEIOS
+                  )
+
+                  links = set()
+                  relevantes = set()
+                  pdfs = set()
+
+                  for a in sopa.find_all("a", href=True):
+                      destino = urljoin(url, a["href"])
+                      esquema = urlparse(destino).scheme
+
+                      if esquema not in ("http", "https"):
+                          continue
+
+                      links.add(destino)
+
+                      descricao = (
+                          a.get_text(" ", strip=True)
+                          + " " + destino
+                      ).lower()
+
+                      if any(
+                          palavra in descricao
+                          for palavra in PALAVRAS
+                      ):
+                          relevantes.add(destino)
+
+                      if urlparse(destino).path.lower().endswith(".pdf"):
+                          pdfs.add(destino)
+
+                  print("HTTP:", resposta.status_code)
+                  print("Titulo:", titulo)
+                  print("Links unicos:", len(links))
+                  print("Links potencialmente relevantes:", len(relevantes))
+                  print("PDFs encontrados:", len(pdfs))
+                  print("Bloqueio detectado:", bloqueado)
+
+                  print("\nExemplos de links relevantes:")
+                  for link in sorted(relevantes)[:5]:
+                      print("-", link)
+
+                  if resposta.status_code != 200 or bloqueado:
+                      falhas += 1
+                      print("\nRESULTADO: FALHA")
+                  elif not links:
+                      falhas += 1
+                      print("\nRESULTADO: SEM LINKS")
+                  else:
+                      print("\nRESULTADO: ACESSO BASICO OK")
+
+              except requests.RequestException as erro:
+                  falhas += 1
+                  print("RESULTADO: ERRO DE CONEXAO")
+                  print(str(erro))
+
+          print(f"\n{'=' * 55}")
+          print("RESUMO DO DIAGNOSTICO")
+          print("Portais com falhas:", falhas)
+
+          if falhas:
+              raise SystemExit(1)
+
+          print("Todos os portais passaram no acesso basico.")
+          PY
