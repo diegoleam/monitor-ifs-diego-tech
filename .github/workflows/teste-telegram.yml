@@ -1,0 +1,56 @@
+﻿name: Teste Telegram - Diego Tech
+
+on:
+  workflow_dispatch:
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Enviar mensagem de teste
+        env:
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import json
+          import urllib.request
+
+          token = os.environ["BOT_TOKEN"]
+          chat_id = os.environ["CHAT_ID"]
+
+          mensagem = (
+              "🤖 MONITOR IFs - DIEGO TECH\n\n"
+              "✅ TESTE DO GITHUB ACTIONS\n\n"
+              "O sistema enviou esta mensagem "
+              "diretamente da nuvem!\n\n"
+              "🏫 IFPB\n"
+              "🏫 IFSertãoPE\n"
+              "📋 COMPEC\n\n"
+              "🚀 Desenvolvido por Diego Tech"
+          )
+
+          url = f"https://api.telegram.org/bot{token}/sendMessage"
+
+          dados = json.dumps({
+              "chat_id": chat_id,
+              "text": mensagem
+          }).encode("utf-8")
+
+          requisicao = urllib.request.Request(
+              url,
+              data=dados,
+              headers={"Content-Type": "application/json"},
+              method="POST"
+          )
+
+          with urllib.request.urlopen(requisicao, timeout=30) as resposta:
+              resultado = json.load(resposta)
+
+          if not resultado.get("ok"):
+              raise RuntimeError("Telegram não confirmou o envio")
+
+          print("Mensagem enviada com sucesso!")
+          PY
