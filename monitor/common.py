@@ -133,6 +133,8 @@ def reconcile(portal, documents, valid, observed_origins=None):
         LOG.warning('%s: coleta indisponivel; estado preservado', portal)
         return
 
+    if portal.lower() == 'ifsertaope':
+        return reconcile_ifsertaope_v41(documents, valid)
     state = load(portal)
     known = state['items']
     pending = state['pending']
@@ -146,7 +148,7 @@ def reconcile(portal, documents, valid, observed_origins=None):
     candidates = {}
     for key, item in documents.items():
         if initialized and key not in known and key not in pending and key not in sent:
-            if is_compec or item.get('origin') in origins:
+            if is_compec or (portal.lower() == 'ifsertaope' and item.get('kind') == 'Novo edital') or item.get('origin') in origins:
                 candidates[key] = item
         known[key] = item
 
@@ -219,3 +221,84 @@ def reconcile(portal, documents, valid, observed_origins=None):
 
     LOG.info('%s: documentos lidos=%s novos=%s pendentes=%s',
              portal, len(documents), new, len(pending))
+
+
+def reconcile_ifsertaope_v41(documents, valid):
+    """Regra isolada IFSertaoPE: baseline, novos editais e mudancas de atualizacao."""
+    import datetime
+    portal = 'ifsertaope'
+    if not valid or not documents:
+        LOG.warning('IFSertaoPE: coleta indisponivel; historico preservado')
+        return
+
+    def stamp(item):
+        m = re.search(r'Ultima atualizacao:\s*(\d{2}/\d{2}/\d{4}\s+\d{2}:\d{2})',
+                      item.get('description', ''), re.I)
+        if not m:
+            return None
+        try:
+            return datetime.datetime.strptime(m.group(1), '%d/%m/%Y %H:%M')
+        except ValueError:
+            return None
+
+    state = load(portal)
+    known = state['items']
+    pending = state['pending']
+    sent = set(state['sent'])
+    listing = {k: v for k, v in documents.items() if v.get('kind') == 'Novo edital'}
+    if not listing:
+        LOG.warning('IFSertaoPE: tabela sem editais; historico preservado')
+        return
+    if not any(stamp(v) for v in listing.values()):
+        LOG.warning('IFSertaoPE: tabela sem datas validas; historico preservado')
+        return
+    previous = [stamp(v) for v in known.values() if v.get('kind') == 'Novo edital']
+    previous = [d for d in previous if d]
+    cutoff = max(previous) if previous else None
+    initialized = bool(state['initialized'])
+    count_new = count_updated = 0
+    for key, item in listing.items():
+        now = stamp(item)
+        old = known.get(key)
+        if initialized and now and (cutoff is None or now > cutoff):
+            if old is None:
+                event = dict(item)
+                event['kind'] = 'Novo edital'
+                event_key = identifier('ifs-v41-new', key)
+                if event_key not in sent and event_key not in pending:
+                    pending[event_key] = event
+                    count_new += 1
+            elif stamp(old) != now:
+                event = dict(item)
+                event['kind'] = 'Edital atualizado'
+                event['doc'] = 'Atualizacao registrada na listagem oficial'
+                event_key = identifier('ifs-v41-update', key, now.isoformat())
+                if event_key not in sent and event_key not in pending:
+                    pending[event_key] = event
+                    count_updated += 1
+        # Nao retroceder a data de atualizacao em caso de resposta desatualizada.
+        if old is None or (now and (stamp(old) is None or now >= stamp(old))):
+            known[key] = item
+
+    # Mantem documentos individuais anteriores sem interferir no monitoramento da listagem.
+    for key, item in documents.items():
+        if key not in listing:
+            known[key] = item
+    state['initialized'] = True
+    save(portal, state)
+    for key, item in list(pending.items()):
+        if key in sent:
+            pending.pop(key, None)
+            save(portal, state)
+            continue
+        try:
+            telegram_send(item)
+        except (requests.RequestException, ValueError, RuntimeError) as exc:
+            LOG.warning('IFSertaoPE: alerta pendente %s: %s', key[:10], exc)
+            continue
+        state['sent'].append(key)
+        sent.add(key)
+        pending.pop(key, None)
+        save(portal, state)
+    LOG.info('IFSertaoPE: listagem=%d novos=%d atualizados=%d pendentes=%d',
+             len(listing), count_new, count_updated, len(pending))
