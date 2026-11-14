@@ -1,39 +1,24 @@
-# Monitor IFs — Diego Tech
+# Monitor IFs — Diego Tech v3.2
 
-Monitor experimental de notícias, editais e documentos do IFSertãoPE, IFPB e COMPEC/IFPB.
+Monitora IFSertãoPE, IFPB e COMPEC, com alertas Telegram assinados **Desenvolvido por Diego Tech**.
 
-## Instalação no GitHub (sem computador ligado)
+## Testes e execução
 
-1. Crie um **repositório privado** no GitHub, por exemplo `monitor-ifs-diego-tech`.
-2. Envie **todos os arquivos e pastas** deste projeto, incluindo `.github/workflows/monitor.yml`.
-3. No Telegram, abra `@BotFather`, envie `/newbot`, escolha nome e usuário e copie o token. **Não compartilhe o token.**
-4. Abra a conversa com o bot recém-criado e envie `/start`.
-5. Descubra seu chat ID abrindo no navegador `https://api.telegram.org/botSEU_TOKEN/getUpdates` (substitua `SEU_TOKEN`). Procure `message.chat.id`. Não compartilhe a URL com o token.
-6. No repositório, vá a **Settings > Secrets and variables > Actions > New repository secret**. Crie `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID`.
-7. Vá a **Settings > Actions > General > Workflow permissions**, marque **Read and write permissions** e salve. Confirme que Actions está habilitado.
-8. Vá a **Actions > Monitor IFs - Diego Tech > Run workflow**. Confira os logs. A primeira execução cria o histórico sem enviar notícias antigas.
-9. Verifique se `data/state.json` apareceu no repositório. O agendamento pede execução a cada 15 minutos; o GitHub pode atrasar ou deixar de executar alguns agendamentos.
+Instale `pip install -r requirements.txt` e execute `python -m unittest discover -s tests -v`.
 
-## Executar localmente (opcional)
+Teste manual (envia uma publicação identificada de cada portal, sem alterar histórico):
+`python -m monitor.main --mode test-latest --portal all`
 
-```powershell
-py -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-$env:TELEGRAM_BOT_TOKEN="SEU_TOKEN"
-$env:TELEGRAM_CHAT_ID="SEU_CHAT_ID"
-python -m monitor.main
-```
+Monitoramento com histórico: `python -m monitor.main --mode monitor --portal all`.
 
-## Limitações e cuidados
+## GitHub Actions — importante
 
-- **Versão experimental**: os seletores e fluxos de navegação dos três portais ainda precisam ser validados em acesso real. O coletor genérico pode perder publicações carregadas por JavaScript, paginação não convencional e PDFs fora do orçamento de downloads.
-- A comparação textual pode produzir falsos positivos ou ignorar alterações sutis; PDF é comparado por SHA-256 apenas quando efetivamente baixado.
-- `MAX_PAGES_PER_SOURCE` (padrão 8), `MAX_DETAILS_PER_RUN` (45) e `MAX_PDFS_PER_RUN` (12) limitam a carga. A cobertura **não é integral**. Ajuste com cuidado e respeite os sites.
-- O robô pode enviar vários avisos relacionados à mesma atualização; a deduplicação usa origem, tipo, URL e hash. Não há agrupamento inteligente de processos nesta versão.
-- **Atenção:** alterações detectadas enquanto o Telegram estiver indisponível não são mantidas em fila durável. A versão inicial evita marcar alertas como enviados, mas pode deixar de avisar uma alteração após o histórico ser atualizado.
-- O GitHub Actions pode suspender workflows agendados em repositórios públicos inativos e possui cotas; confira as condições vigentes da sua conta.
-- Não publique tokens nem chat IDs no código ou em screenshots. Preferir repositório privado.
-- Para produção, adicionar testes com páginas reais, rastreamento de paginação por portal, fila persistente e priorização de PDFs.
+O workflow `.github/workflows/monitor-v3.yml` inclui `schedule: */15 * * * *` e execução manual. **O agendamento do GitHub só roda na branch padrão (`main`) e usa o código dessa branch.** Portanto, testar primeiro na branch de desenvolvimento e **só depois integrar o projeto completo na main**. Publicar apenas o YAML na main NÃO instala os coletores novos para o agendamento.
 
-**Assinatura das mensagens:** Desenvolvido por Diego Tech 🚀
+Configure Secrets `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID`. Permita `Read and write permissions` para o `GITHUB_TOKEN` no repositório, se a política do repositório exigir, para persistir `data/*.json` por commit. Se o push do histórico falhar, o monitor pode repetir alertas em execuções futuras; verifique os logs. O histórico anterior não deve ser apagado.
+
+Na primeira execução automática, os documentos coletados formam a linha de base e não geram avalanche de notificações antigas. Teste manual sempre envia uma mensagem de teste por portal com publicações verificáveis.
+
+## Limitações
+
+IFSertãoPE pode bloquear as páginas individuais com Radware/Perfdrive; reduzir o número de consultas não garante acesso. COMPEC depende de encontrar processos e anexos oficiais acessíveis; um processo de referência é usado para validar a estrutura, mas isso não comprova cobertura integral. O cron é uma solicitação de execução a cada 15 minutos; o GitHub pode atrasar ou pular execuções sob carga.
