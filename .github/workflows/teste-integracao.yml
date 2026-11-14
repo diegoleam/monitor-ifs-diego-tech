@@ -1,0 +1,47 @@
+
+name: Teste de Integracao Monitor IFs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Testar integracao com Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python - <<'PY'
+          import monitor.main as monitor
+
+          mensagem = (
+              "🧪 TESTE DE INTEGRAÇÃO — MONITOR IFs\n\n"
+              "📢 Novo edital detectado (SIMULAÇÃO)\n"
+              "🏫 Instituição: IFPB\n"
+              "📄 Edital fictício de teste — Diego Tech\n\n"
+              "✅ Esta mensagem foi enviada pela função "
+              "de notificação do próprio monitor.\n\n"
+              "⚠️ Não é um edital verdadeiro."
+          )
+
+          resultado = monitor.notify(mensagem)
+
+          if resultado is False:
+              raise SystemExit("FALHA: envio não confirmado.")
+
+          print("Teste de envio executado.")
+          PY
