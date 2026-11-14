@@ -2,10 +2,12 @@
   "initialized": true,
   "pages": {
     "https://concursos.ifpb.edu.br/": {
-      "checked_at": "2026-11-14T15:20:59.424141+00:00",
-      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "checked_at": "2026-11-14T17:06:25.536671+00:00",
+      "hash": "c390fe889e4f100439d990fb05e068d4f3deea2de74178105e2a6f003a55d59b",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
@@ -15,9 +17,116 @@
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
-        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
+        "https://concursos.ifpb.edu.br/?page=1",
+        "https://concursos.ifpb.edu.br/?page=2",
+        "https://concursos.ifpb.edu.br/?page=3"
       ],
       "title": "COMPEC - Concursos"
+    },
+    "https://concursos.ifpb.edu.br/?page=1": {
+      "checked_at": "2026-11-14T17:06:30.735899+00:00",
+      "hash": "c390fe889e4f100439d990fb05e068d4f3deea2de74178105e2a6f003a55d59b",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
+        "https://concursos.ifpb.edu.br/?page=1",
+        "https://concursos.ifpb.edu.br/?page=2",
+        "https://concursos.ifpb.edu.br/?page=3"
+      ],
+      "title": "COMPEC - Concursos"
+    },
+    "https://concursos.ifpb.edu.br/?page=2": {
+      "checked_at": "2026-11-14T17:06:30.980912+00:00",
+      "hash": "4841abf714f97c74c75403947aa3d141917fe90c54bfa3a0b12b85c36a03437b",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/d342f2f7-0848-48b1-913c-940fba4f0605",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/4ce0cbf4-32af-41fe-af45-15a4cd781ea1",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/4b450df8-ed68-4131-944e-22dd9ee1b6c5",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/00da78a2-4f25-4d71-b43b-794a08ad205b",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cb0fccba-ffe2-4f89-ab2a-5af9be349824",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/39a6fd1e-83d6-4dba-87e0-34716f3be7aa",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/41a87826-8b20-4b1f-9619-e4f8e67b39c0",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/79b65672-85b0-47b5-bc11-88f1bd6d90b4",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/a05bd2a9-cbf8-4df2-a7bb-2eeea38caa9b",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/1b903dfd-1d59-41d8-94bb-ea64f3185459",
+        "https://concursos.ifpb.edu.br/?page=1",
+        "https://concursos.ifpb.edu.br/?page=2",
+        "https://concursos.ifpb.edu.br/?page=3",
+        "https://concursos.ifpb.edu.br/?page=4"
+      ],
+      "title": "COMPEC - Concursos"
+    },
+    "https://concursos.ifpb.edu.br/?page=3": {
+      "checked_at": "2026-11-14T17:06:31.235715+00:00",
+      "hash": "8e079892a60d1f182812714d2bbf337ed466cde5ebe66f58a9cf6e0012f141c5",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/998bd5b7-a58e-4891-a1c2-5a2995d83c4b",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/f8d90174-3ce6-4e08-ad4d-e33085c5ab00",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/8d81368b-8e19-41be-ac34-750edc5acd54",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/347ef671-7dd8-445d-860f-d15e19e92b49",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/75e5dd9f-3b42-40cd-a892-9ed99345f755",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/42e851c0-1818-4e15-b3f4-2f1d0cccc75e",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/641d0f54-d185-4310-ae39-75ecfa7085aa",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/0554c49f-9a40-4877-9893-cbc4aac22260",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/85b17c5b-258b-4799-a7d0-dab2d6ba63ae",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/a92ac7f5-2016-4855-9aef-9dc2d51619fa",
+        "https://concursos.ifpb.edu.br/?page=2",
+        "https://concursos.ifpb.edu.br/?page=1",
+        "https://concursos.ifpb.edu.br/?page=3",
+        "https://concursos.ifpb.edu.br/?page=4",
+        "https://concursos.ifpb.edu.br/?page=5"
+      ],
+      "title": "COMPEC - Concursos"
+    },
+    "https://concursos.ifpb.edu.br/candidatos/redirect/5c910444-3e0d-40be-bf4e-47a9f3c321f6": {
+      "checked_at": "2026-11-14T17:06:35.331506+00:00",
+      "hash": "abb172e098867228f6884fe75df713da5a8b604ac65a18bfb78c4d1fea7d2559",
+      "links": [
+        "https://concursos.ifpb.edu.br/"
+      ],
+      "title": "COMPEC - Entrar"
+    },
+    "https://concursos.ifpb.edu.br/candidatos/redirect/5f2dc447-4d9c-42cd-88be-c16728d70bd7": {
+      "checked_at": "2026-11-14T17:06:33.583914+00:00",
+      "hash": "abb172e098867228f6884fe75df713da5a8b604ac65a18bfb78c4d1fea7d2559",
+      "links": [
+        "https://concursos.ifpb.edu.br/"
+      ],
+      "title": "COMPEC - Entrar"
+    },
+    "https://concursos.ifpb.edu.br/candidatos/redirect/beab9b5a-0554-4ee8-8f8e-6e959520deb9": {
+      "checked_at": "2026-11-14T17:06:31.806221+00:00",
+      "hash": "abb172e098867228f6884fe75df713da5a8b604ac65a18bfb78c4d1fea7d2559",
+      "links": [
+        "https://concursos.ifpb.edu.br/"
+      ],
+      "title": "COMPEC - Entrar"
+    },
+    "https://concursos.ifpb.edu.br/candidatos/redirect/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4": {
+      "checked_at": "2026-11-14T17:06:38.713682+00:00",
+      "hash": "abb172e098867228f6884fe75df713da5a8b604ac65a18bfb78c4d1fea7d2559",
+      "links": [
+        "https://concursos.ifpb.edu.br/"
+      ],
+      "title": "COMPEC - Entrar"
     },
     "https://concursos.ifpb.edu.br/editais/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f/editais": {
       "checked_at": "2026-11-14T15:21:13.887145+00:00",
@@ -26,6 +135,30 @@
         "https://concursos.ifpb.edu.br/",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
         "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/461"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6/editais": {
+      "checked_at": "2026-11-14T17:06:37.758742+00:00",
+      "hash": "09f283e61882d174494a274afacb778401593e7e1e0ac845d637c9670eafb0b2",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/479"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7/editais": {
+      "checked_at": "2026-11-14T17:06:34.381769+00:00",
+      "hash": "8bc5c8701a30b44099c4e84d45a674e705f9da4244ee67b8e22a5fbf412cfdd5",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/480"
       ],
       "title": "COMPEC - Edital"
     },
@@ -39,11 +172,25 @@
       ],
       "title": "COMPEC - Edital"
     },
-    "https://concursos.ifpb.edu.br/editais/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/editais": {
-      "checked_at": "2026-11-14T15:21:24.602888+00:00",
-      "hash": "30b1ed21bdbb343845931722d000167b920b2044a74b9f2cedc7923d52a7acb0",
+    "https://concursos.ifpb.edu.br/editais/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9/editais": {
+      "checked_at": "2026-11-14T17:06:32.619208+00:00",
+      "hash": "aeb73911d0de13efa0fb581e1a94809a1fb0c67d27ff6042504fed1da8a5ddc5",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://estudante.ifpb.edu.br/editais/(433/EDITAL_ABERTURA/view"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/editais": {
+      "checked_at": "2026-11-14T17:06:43.567209+00:00",
+      "hash": "36620af8d2c52d64f7d669cd43027b59ee60263e01c4a04247d4a0333630f58d",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
         "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb"
       ],
@@ -69,6 +216,18 @@
       ],
       "title": "COMPEC - Edital"
     },
+    "https://concursos.ifpb.edu.br/editais/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4/editais": {
+      "checked_at": "2026-11-14T17:06:42.379955+00:00",
+      "hash": "eebc38f4a636414e495af423079bed91e999337451a3b675c4608e0350a8f3ab",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/481"
+      ],
+      "title": "COMPEC - Edital"
+    },
     "https://concursos.ifpb.edu.br/editais/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b/editais": {
       "checked_at": "2026-11-14T15:21:23.419155+00:00",
       "hash": "25e4cedeb0f28bca6682b7084dbe25704d89e58555dbab720c486d14c73108fe",
@@ -78,6 +237,16 @@
         "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil"
       ],
       "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/faq": {
+      "checked_at": "2026-11-14T17:06:26.303804+00:00",
+      "hash": "27a9b5d8383ad3bba47e748afe0a6f05a5901059e5e056afe79440d6048721bf",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq"
+      ],
+      "title": "COMPEC - Perguntas Frequentes - <abbr title=\"frequently asked questions\">FAQ</abbr>"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3905": {
       "checked_at": "2026-11-14T15:21:03.958788+00:00",
@@ -142,6 +311,17 @@
       ],
       "title": "COMPEC - 1 - Especialização em Ciências de Dados - Ciências de Dados - Cajazeiras"
     },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3973": {
+      "checked_at": "2026-11-14T17:06:32.230820+00:00",
+      "hash": "28680422e58ca4995935acc230926bb4ade6da973bbe4b0cb132f3055d83b311",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9"
+      ],
+      "title": "COMPEC - 1 - Bacharelado em Zootecnia - Sousa"
+    },
     "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3974": {
       "checked_at": "2026-11-14T15:21:14.665437+00:00",
       "hash": "50fabf79a7e98724ca2cd2d59d5f5a75343a043e4a5daf7200e3c66d28101f90",
@@ -197,10 +377,12 @@
       "title": "COMPEC - 1 - Mobilizadora Social - Mangabeira"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3980": {
-      "checked_at": "2026-11-14T15:21:24.211520+00:00",
-      "hash": "50b51cd794607d3261d43274ca8ac4a6cc334801fe8df7f1b6e3cbc09a74dabe",
+      "checked_at": "2026-11-14T17:06:43.180349+00:00",
+      "hash": "45c87876bb35612242c532fe8fb38319be4b7e36d76eca3928d28fc4f804afbf",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5"
       ],
       "title": "COMPEC - 1 - Professor Substituto - Sociologia - Princesa Isabel"
@@ -286,11 +468,167 @@
       ],
       "title": "COMPEC - 9 - Professor Formador - Prática: aplicação dos cuidados com os idosos - Queimadas"
     },
-    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f": {
-      "checked_at": "2026-11-14T15:20:59.835354+00:00",
-      "hash": "943724e71052e2028c61641652b893f9fcc6d49c29dea7af0a95b25bd0c6276f",
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3990": {
+      "checked_at": "2026-11-14T17:06:33.992490+00:00",
+      "hash": "e82693db4329bb291014ba47e133cfe721e6b62c8b03a1da61dfa9429bc06378",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7"
+      ],
+      "title": "COMPEC - 1 - Especialização em Gestão dos Recursos Ambientais do Semiárido - Picuí"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3991": {
+      "checked_at": "2026-11-14T17:06:39.122577+00:00",
+      "hash": "a7cd73ff49efb9f0ee963574200f5f7881f345a28b4c678702728525dde37761",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 1 - Especialização em Gestão na Educação Profissional e Tecnológica - Alagoa Grande"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3992": {
+      "checked_at": "2026-11-14T17:06:39.536847+00:00",
+      "hash": "8baaab056d613e4f1148b9e793967d998f86025a5a8c6edb3f36b079f16fed1d",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 2 - Especialização em Gestão na Educação Profissional e Tecnológica - Araruna"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3993": {
+      "checked_at": "2026-11-14T17:06:39.945881+00:00",
+      "hash": "a5614f385d23723aad2a69cfaa7f4ec466050bd74ce4cdc2f76586c6cfa2924f",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 3 - Especialização em Gestão na Educação Profissional e Tecnológica - Cabedelo Centro"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3994": {
+      "checked_at": "2026-11-14T17:06:40.354759+00:00",
+      "hash": "5e905c6b1ba80877ec7f0f2541548db430092b137d43b87e69c5afca4aa9b1d4",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 4 - Especialização em Gestão na Educação Profissional e Tecnológica - Duas Estradas"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3995": {
+      "checked_at": "2026-11-14T17:06:40.758222+00:00",
+      "hash": "2108037a40b2c7d604561781731d4d3fd56bfe44f5d670d292955308912d0efb",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 5 - Especialização em Gestão na Educação Profissional e Tecnológica - Itaporanga"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3996": {
+      "checked_at": "2026-11-14T17:06:41.162204+00:00",
+      "hash": "0cfd9258b8876e2dcfa68f5d9059e861179e01ab67468b2fc43abf7f058e399f",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 6 - Especialização em Gestão na Educação Profissional e Tecnológica - João Pessoa"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3997": {
+      "checked_at": "2026-11-14T17:06:41.578583+00:00",
+      "hash": "e0fa7d7af926a602929852e5ed9b23dc59fa93de2c6620388877f6b7746e7b95",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 7 - Especialização em Gestão na Educação Profissional e Tecnológica - Mari"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3998": {
+      "checked_at": "2026-11-14T17:06:41.986068+00:00",
+      "hash": "c2496c00c442c24dfb78914ad63a3dbd98ff8a8f2b3cefcbfa2e895b42180bc2",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4"
+      ],
+      "title": "COMPEC - 8 - Especialização em Gestão na Educação Profissional e Tecnológica - Taperoá"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3999": {
+      "checked_at": "2026-11-14T17:06:35.736391+00:00",
+      "hash": "a99560b12d27b81fc54983310f0ae05d4daaa11908199bcbe5953f0c4f2eaa25",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6"
+      ],
+      "title": "COMPEC - 1 - Especialização em Gestão Pública - Araruna"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4000": {
+      "checked_at": "2026-11-14T17:06:36.143124+00:00",
+      "hash": "1cc88f04cd98d3bd3653f2e3a6b52aaad4aa2854cc01ee4206d5cce50dd5c5e7",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6"
+      ],
+      "title": "COMPEC - 2 - Especialização em Gestão Pública - Itaporanga"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4001": {
+      "checked_at": "2026-11-14T17:06:36.544632+00:00",
+      "hash": "a0ceed25f46b5207a4087a1ba408f0cd91e5665888666d283cee81b9ed9d3ecd",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6"
+      ],
+      "title": "COMPEC - 3 - Especialização em Gestão Pública - Lucena"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4002": {
+      "checked_at": "2026-11-14T17:06:36.955470+00:00",
+      "hash": "39688f94bfcf298189dd4ff59eab6c1ad4bfc5f8053fb3666ea55ce98d9b762d",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6"
+      ],
+      "title": "COMPEC - 4 - Especialização em Gestão Pública - Mari"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4003": {
+      "checked_at": "2026-11-14T17:06:37.370717+00:00",
+      "hash": "f6f477e2199d84bbf1bcd835876df975a5d52836d493fb724585c9af5061c134",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6"
+      ],
+      "title": "COMPEC - 5 - Especialização em Gestão Pública - Taperoá"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f": {
+      "checked_at": "2026-11-14T17:06:30.493401+00:00",
+      "hash": "dab079ad3ccd47ba9397696c260d9c18c23a78fa47fe29e5c6104e44bb6717b9",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3905",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3906",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3907",
@@ -314,10 +652,12 @@
       "title": "COMPEC - Publicações"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6": {
-      "checked_at": "2026-11-14T15:21:02.738526+00:00",
-      "hash": "73cbff01eb5bbed55e1087a8c4492febdae460d64fc605d1368f589df3f7d372",
+      "checked_at": "2026-11-14T17:06:27.529027+00:00",
+      "hash": "4ec06b56eb265bcb9a9852d6accc2cf71ac9bee775dbb3526174d46d1a3872b5",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/candidatos/redirect/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3999",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4000",
@@ -329,11 +669,25 @@
       ],
       "title": "COMPEC - Proc Sel para Especialização em Gestão Pública - Edital 19/2026"
     },
-    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7": {
-      "checked_at": "2026-11-14T15:21:03.139699+00:00",
-      "hash": "c682547b7560962bab148d428830ea91ef2a4a643c02321eb33f34428b36e817",
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6/documentos": {
+      "checked_at": "2026-11-14T17:06:38.143121+00:00",
+      "hash": "08a0b6c36897d797aa09e698003562f93d8800848b3a6c6a7f933c0b1fefb8b9",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/479"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7": {
+      "checked_at": "2026-11-14T17:06:27.120387+00:00",
+      "hash": "8af4c84793f7028f2e38fef7818476161ef2346fe65515204c4bd2d135c66efb",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/candidatos/redirect/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3990",
         "https://concursos.ifpb.edu.br/editais/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7/editais",
@@ -341,11 +695,25 @@
       ],
       "title": "COMPEC - Proc Sel para Especialização em Gestão dos Recursos Ambientais do Semiárido - Edital 16/2026"
     },
-    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad": {
-      "checked_at": "2026-11-14T15:21:00.664230+00:00",
-      "hash": "e19c3595dd93a3aafc7e2460bbd8f54cfc21487910bb166210835a55b291d02a",
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7/documentos": {
+      "checked_at": "2026-11-14T17:06:34.767668+00:00",
+      "hash": "22b29126317c617a67070f700fcb87cf5459c5ecbbcd9cabac3bc5d53314f733",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/480"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad": {
+      "checked_at": "2026-11-14T17:06:29.677476+00:00",
+      "hash": "fad2ecf1d0c7870a96bdd3f0c31a750f7e9dec22dbdc3a9f8399dd3a7cb5fd0e",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3979",
         "https://concursos.ifpb.edu.br/editais/concurso/64eae5c8-e830-49f8-bd29-561236d41fad/editais",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad/documentos"
@@ -363,10 +731,12 @@
       "title": "COMPEC - Publicações"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9": {
-      "checked_at": "2026-11-14T15:21:03.543817+00:00",
-      "hash": "68cf34803b93cebf9ada6f80f11cdb6407f98222174450eb3a6b9bc947ffb25f",
+      "checked_at": "2026-11-14T17:06:26.714487+00:00",
+      "hash": "4de4a05dcce814341d7e5616b655e599fb01a01d6bae510fb9299e997bfaa135",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/candidatos/redirect/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3973",
         "https://concursos.ifpb.edu.br/editais/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9/editais",
@@ -374,11 +744,25 @@
       ],
       "title": "COMPEC - PSCS 2027.1 - PSCS/PRONERA - Campus Sousa - Edital 143/2026"
     },
-    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5": {
-      "checked_at": "2026-11-14T15:21:01.923064+00:00",
-      "hash": "aae748a2a30fe56dabcbd2a9e4b50caafd76a6849cd4acc4ba7f7d719b27ea12",
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9/documentos": {
+      "checked_at": "2026-11-14T17:06:33.005787+00:00",
+      "hash": "35229d75e88a97f312e6b9ec88e5b5e3952e65a10f899873f47d5f47142f6de3",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14/edicao/469"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5": {
+      "checked_at": "2026-11-14T17:06:28.344400+00:00",
+      "hash": "fe3b889941aea359a4ac7b1ba392cddca3c5b18055453676a2ba54530f26e301",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3980",
         "https://concursos.ifpb.edu.br/editais/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/editais",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/documentos"
@@ -386,20 +770,24 @@
       "title": "COMPEC - Processo Seletivo Simplificado para Professor Substituto - Edital 149/2026"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/documentos": {
-      "checked_at": "2026-11-14T15:21:24.987419+00:00",
-      "hash": "aeae1e1ab2b097e54e2d1ac4444c52c0a1d101a22cdec7fb1de392432de5825c",
+      "checked_at": "2026-11-14T17:06:43.955388+00:00",
+      "hash": "45bfad315ddc7490f4fc1beb9a91367ac8c505201db255246a720885a6f9b067",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
         "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb"
       ],
       "title": "COMPEC - Publicações"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537": {
-      "checked_at": "2026-11-14T15:21:01.067726+00:00",
-      "hash": "85398059ecd8d7beb36b6218ab6374bcc2145a01c24a8fa4f784f121b358e8ce",
+      "checked_at": "2026-11-14T17:06:29.256403+00:00",
+      "hash": "bb40d3f7ef5e021e59e1a20c008b856914d6c27d6de02776b689b6661f9a3192",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3972",
         "https://concursos.ifpb.edu.br/editais/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537/editais",
         "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537/documentos"
@@ -417,10 +805,12 @@
       "title": "COMPEC - Publicações"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc": {
-      "checked_at": "2026-11-14T15:21:00.259878+00:00",
-      "hash": "7da70ee793ac372b0da3832fa72e0ac082bb6a19352cca695b7f186feac28e56",
+      "checked_at": "2026-11-14T17:06:30.083765+00:00",
+      "hash": "1462570dadebbfe5fad50dd15e894c9b02c769a0370934a9f2a296763d870738",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3974",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3975",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3976",
@@ -442,10 +832,12 @@
       "title": "COMPEC - Publicações"
     },
     "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4": {
-      "checked_at": "2026-11-14T15:21:02.333136+00:00",
-      "hash": "1823d4d0928c0f37143a4fbd906686ab5f24f11395eb021cfe9120e458d279bd",
+      "checked_at": "2026-11-14T17:06:27.936954+00:00",
+      "hash": "dc847165715283a017227d4671f51f33dde47a3b259337d22da7b7ec1f08cdca",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/candidatos/redirect/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3991",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3992",
@@ -460,11 +852,25 @@
       ],
       "title": "COMPEC - Proc Sel para Especialização em Gestão na Educação Profissional e Tecnológica - Edital 18/2026"
     },
-    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b": {
-      "checked_at": "2026-11-14T15:21:01.496612+00:00",
-      "hash": "a7eae0f8b92980e098ed947503bab85eb3cecab178ae0dac1ba8ac6cb2cfd93f",
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4/documentos": {
+      "checked_at": "2026-11-14T17:06:42.770562+00:00",
+      "hash": "dd68d951d1cac3f863ec81e94b72a59bcf8e64a64bcb13c4891a6b31ea6dbfca",
       "links": [
         "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/481"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b": {
+      "checked_at": "2026-11-14T17:06:28.842732+00:00",
+      "hash": "2cafca2fe06ec37cdbccea1f32ffda728917cd102645f921180950cf062a529b",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/usuarios/entrar",
+        "https://concursos.ifpb.edu.br/faq",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3981",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3982",
         "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3983",
@@ -489,8 +895,16 @@
       ],
       "title": "COMPEC - Publicações"
     },
+    "https://concursos.ifpb.edu.br/usuarios/entrar": {
+      "checked_at": "2026-11-14T17:06:25.921559+00:00",
+      "hash": "abb172e098867228f6884fe75df713da5a8b604ac65a18bfb78c4d1fea7d2559",
+      "links": [
+        "https://concursos.ifpb.edu.br/"
+      ],
+      "title": "COMPEC - Entrar"
+    },
     "https://estudante.ifpb.edu.br/processoseletivo": {
-      "checked_at": "2026-11-14T15:20:50.745047+00:00",
+      "checked_at": "2026-11-14T17:06:18.217023+00:00",
       "hash": "7ee6e3b350a2e5c70d97010a88a4f41e29e22637bf01fe1f7e6b6f46bd6cd95a",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -558,7 +972,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/1": {
-      "checked_at": "2026-11-14T15:20:52.764880+00:00",
+      "checked_at": "2026-11-14T17:06:19.891968+00:00",
       "hash": "f09a3a1c82620e353dc536f255e09bf6f24eb55b3bd22378211ce1542aaff37a",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -644,7 +1058,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/11": {
-      "checked_at": "2026-11-14T15:20:58.349439+00:00",
+      "checked_at": "2026-11-14T17:06:24.417194+00:00",
       "hash": "14dc41254b0bf79a5d33dda6e71103ec40665a0f62c8c0e18d82bc11644e67f5",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -731,7 +1145,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/12": {
-      "checked_at": "2026-11-14T15:20:57.545950+00:00",
+      "checked_at": "2026-11-14T17:06:23.583452+00:00",
       "hash": "16f9add6a4f04436bca1b9a2fcbda4194e2bff31423527aaa63b10ec64f8317e",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -814,7 +1228,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/14": {
-      "checked_at": "2026-11-14T15:20:59.185671+00:00",
+      "checked_at": "2026-11-14T17:06:25.298073+00:00",
       "hash": "8046982a36e1ad528b77da6ceb0125c74b3bf78df2f1dd443aa36e2cd747ec93",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -891,7 +1305,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/17": {
-      "checked_at": "2026-11-14T15:20:56.289838+00:00",
+      "checked_at": "2026-11-14T17:06:22.292085+00:00",
       "hash": "284f29a3ae321583e203f3043eac6abdb94f2d15ccf8deef520f32a958dcf6c3",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -972,7 +1386,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/18": {
-      "checked_at": "2026-11-14T15:20:57.950521+00:00",
+      "checked_at": "2026-11-14T17:06:23.994765+00:00",
       "hash": "6ee99d11268eebb98e7a4fe1cb406a6f2ee45c5180c6597be7722ca47c4f1411",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -1046,7 +1460,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/5": {
-      "checked_at": "2026-11-14T15:20:56.704877+00:00",
+      "checked_at": "2026-11-14T17:06:22.723857+00:00",
       "hash": "39582b660d1a458776c67e5df7b918a0867bbe202cb366f13f7e714664eeaf7e",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -1133,7 +1547,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/7": {
-      "checked_at": "2026-11-14T15:20:57.148407+00:00",
+      "checked_at": "2026-11-14T17:06:23.167984+00:00",
       "hash": "1e67e62f96744d72670e4f23265c172a9c8bad6740d42c90744d453e369e31e5",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -1220,7 +1634,7 @@
       "title": "Portal do Estudante | IFPB"
     },
     "https://estudante.ifpb.edu.br/processoseletivo/processo/9": {
-      "checked_at": "2026-11-14T15:20:58.788801+00:00",
+      "checked_at": "2026-11-14T17:06:24.878631+00:00",
       "hash": "50984d4ba2c187e2cc75034feb4f9a05b4074bbe9c96c693292a1c83d189afc6",
       "links": [
         "https://estudante.ifpb.edu.br/",
@@ -1320,7 +1734,7 @@
       "title": "Radware Captcha Page"
     },
     "https://www.ifpb.edu.br/": {
-      "checked_at": "2026-11-14T15:20:34.455161+00:00",
+      "checked_at": "2026-11-14T17:06:02.563807+00:00",
       "hash": "386d9039b8218c19fbee56e9fd130a4ac8cfa51a0bc3b389de997b10d9585bd9",
       "links": [
         "https://www.ifpb.edu.br/institucional/historia",
@@ -1344,7 +1758,7 @@
       "title": "IFPB"
     },
     "https://www.ifpb.edu.br/campus": {
-      "checked_at": "2026-11-14T15:20:52.335246+00:00",
+      "checked_at": "2026-11-14T17:06:19.444712+00:00",
       "hash": "3c781bd99863ac06d8217696ff0dfd0a7a8e13a32536e2fe8ef964a23f5ab20e",
       "links": [
         "https://www.ifpb.edu.br/campus/areia",
@@ -1372,7 +1786,7 @@
       "title": "Campi"
     },
     "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados": {
-      "checked_at": "2026-11-14T15:20:30.997128+00:00",
+      "checked_at": "2026-11-14T17:05:52.780608+00:00",
       "hash": "b9210d643a989877f389f9dc5f98dbc1d431742c6f8ea60f2e489a8cb2377aa6",
       "links": [
         "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/edital-148-2026-mulheres-mil-mobilizadora-social.pdf",
@@ -1387,7 +1801,7 @@
       "title": "Edital no 148/2026 – Programa Mulheres Mil + Cuidados"
     },
     "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/convocacoes": {
-      "checked_at": "2026-11-14T15:20:46.984562+00:00",
+      "checked_at": "2026-11-14T17:06:11.466234+00:00",
       "hash": "40444e80d2147bcb6803f0b0d5f3740e456a8daf5e42fcbf984950d33d5aa130",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/edital-no-148-2026-compec-mobilizadora-social-programa-mulheres-mil",
@@ -1396,10 +1810,12 @@
       "title": "Edital no 148/2026 – COMPEC"
     },
     "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes": {
-      "checked_at": "2026-11-14T15:20:46.100652+00:00",
-      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "checked_at": "2026-11-14T17:06:10.605135+00:00",
+      "hash": "c390fe889e4f100439d990fb05e068d4f3deea2de74178105e2a6f003a55d59b",
       "links": [
         "https://www.ifpb.edu.br/",
+        "https://www.ifpb.edu.br/usuarios/entrar",
+        "https://www.ifpb.edu.br/faq",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
@@ -1410,12 +1826,14 @@
         "https://www.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
-        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes"
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes?page=1",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes?page=2",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes?page=3"
       ],
       "title": "COMPEC - Concursos"
     },
     "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil": {
-      "checked_at": "2026-11-14T15:20:31.729061+00:00",
+      "checked_at": "2026-11-14T17:05:51.968514+00:00",
       "hash": "2e1470ff52273f04b4904b4019bca4db2368510880eb6d823ffb4c62b0674fcd",
       "links": [
         "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/edital-151-2026-selecao-de-professores-pmm.pdf",
@@ -1429,7 +1847,7 @@
       "title": "Edital no 151/2026 – Vagas remanescentes – Programa Mulheres Mil"
     },
     "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/convocacoes": {
-      "checked_at": "2026-11-14T15:20:49.359222+00:00",
+      "checked_at": "2026-11-14T17:06:09.684854+00:00",
       "hash": "2104d8fc51136874b19bc46148a96a77466c30432bf3a9d8ddcb6c36f9294622",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/convocacao_edital_n-c2-ba_151_2026_-_campus_catole_do_rocha_-_ana_e_debora_assinado.pdf",
@@ -1438,10 +1856,12 @@
       "title": "Edital no 151/2026 – COMPEC"
     },
     "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes": {
-      "checked_at": "2026-11-14T15:20:48.463160+00:00",
-      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "checked_at": "2026-11-14T17:06:08.655499+00:00",
+      "hash": "c390fe889e4f100439d990fb05e068d4f3deea2de74178105e2a6f003a55d59b",
       "links": [
         "https://www.ifpb.edu.br/",
+        "https://www.ifpb.edu.br/usuarios/entrar",
+        "https://www.ifpb.edu.br/faq",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
@@ -1452,12 +1872,14 @@
         "https://www.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
-        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes"
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes?page=1",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes?page=2",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes?page=3"
       ],
       "title": "COMPEC - Concursos"
     },
     "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape": {
-      "checked_at": "2026-11-14T15:20:32.545183+00:00",
+      "checked_at": "2026-11-14T17:05:51.240015+00:00",
       "hash": "d44667fb2d5211dd8efb1dc04c09c9db1709f7f5ef43575cd8b40de480af9791",
       "links": [
         "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/edital-161-2026-selecao-de-professores-ted-apoio-a-implantacao-sape.pdf",
@@ -1469,7 +1891,7 @@
       "title": "Edital no 161/2026 – Seleção de Professor-Formador (Sapé)"
     },
     "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb": {
-      "checked_at": "2026-11-14T15:20:39.225690+00:00",
+      "checked_at": "2026-11-14T17:06:06.597391+00:00",
       "hash": "58ac9bbf9ffa57307862f7aa721cdfee28287cc8e7551164666dddc464d4d3cd",
       "links": [
         "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/edital-149_2026-de-abertura-professor-substituto.pdf",
@@ -1487,10 +1909,12 @@
       "title": "Edital no 149/2026 - Professor Substituto do IFPB"
     },
     "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes": {
-      "checked_at": "2026-11-14T15:20:55.896721+00:00",
-      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "checked_at": "2026-11-14T17:06:21.884829+00:00",
+      "hash": "c390fe889e4f100439d990fb05e068d4f3deea2de74178105e2a6f003a55d59b",
       "links": [
         "https://www.ifpb.edu.br/",
+        "https://www.ifpb.edu.br/usuarios/entrar",
+        "https://www.ifpb.edu.br/faq",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
@@ -1501,12 +1925,14 @@
         "https://www.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
         "https://www.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
-        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes"
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes?page=1",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes?page=2",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes?page=3"
       ],
       "title": "COMPEC - Concursos"
     },
     "https://www.ifpb.edu.br/editais": {
-      "checked_at": "2026-11-14T15:20:18.467212+00:00",
+      "checked_at": "2026-11-14T17:05:42.605582+00:00",
       "hash": "c97e9379cc1b69e25b990dcb4fe87559a2653c7478d794cd0de25e0f02b0ded2",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae",
@@ -1533,19 +1959,19 @@
       "title": "Editais"
     },
     "https://www.ifpb.edu.br/noticias/2026/11/comeca-mudanca-de-setores-do-ifpb-para-a-nova-sede-da-reitoria": {
-      "checked_at": "2026-11-14T15:20:37.105573+00:00",
+      "checked_at": "2026-11-14T17:06:04.229908+00:00",
       "hash": "2a145a481ea39d5bb4f1d51dc72e8f6b088f732bc69521f65a70d98cd331cc1e",
       "links": [],
       "title": "Começa mudança de setores do IFPB para a nova sede da Reitoria"
     },
     "https://www.ifpb.edu.br/noticias/2026/11/dgti-renova-contrato-de-nuvem-para-garantir-seguranca-e-estabilidade-dos-servicos-do-ifpb": {
-      "checked_at": "2026-11-14T15:20:36.141196+00:00",
+      "checked_at": "2026-11-14T17:06:05.063898+00:00",
       "hash": "ea4a9d2f1b68869b9aee52192df80dee9a93e0285df4d91b35926d7c3ca4fba0",
       "links": [],
       "title": "DGTI renova contrato de nuvem para garantir segurança e estabilidade dos serviços do IFPB"
     },
     "https://www.ifpb.edu.br/noticias/2026/11/ifpb-e-receita-federal-transformam-equipamentos-apreendidos-em-oportunidades-de-inclusao-digital-e-cidadania": {
-      "checked_at": "2026-11-14T15:20:37.870475+00:00",
+      "checked_at": "2026-11-14T17:06:03.337815+00:00",
       "hash": "bda0e472186e01dc4db79efae3e14d6148d2e4a5548cc20f52b7d5e6aacfbbf1",
       "links": [
         "https://www.ifpb.edu.br/search"
@@ -1553,13 +1979,13 @@
       "title": "IFPB e Receita Federal transformam equipamentos apreendidos em oportunidades de inclusão digital e cidadania"
     },
     "https://www.ifpb.edu.br/noticias/2026/11/sai-resultado-preliminar-de-selecao-para-compor-equipe-do-pec-ple-2027": {
-      "checked_at": "2026-11-14T15:20:35.390677+00:00",
+      "checked_at": "2026-11-14T17:06:05.852455+00:00",
       "hash": "86e1a640ba2671b6d95032a595308005fb006c37ab2c76a09bd22ecf171b3815",
       "links": [],
       "title": "Sai Resultado Preliminar de seleção para compor equipe do PEC-PLE 2027"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-01-2022-classificacao-pbp": {
-      "checked_at": "2026-11-14T15:20:32.957367+00:00",
+      "checked_at": "2026-11-14T17:05:50.025121+00:00",
       "hash": "31fd1679b6c31a7695fe2a56d35dc820ff02fb9c6122637f0f597f2bc375352f",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-01-2022-classificacao-pbp/edital-prae-012022-pbp.pdf",
@@ -1568,7 +1994,7 @@
       "title": "Edital PRAE 01/2022 - Classificação PBP"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae": {
-      "checked_at": "2026-11-14T15:20:33.371798+00:00",
+      "checked_at": "2026-11-14T17:05:46.966117+00:00",
       "hash": "2d6b9eb11d23023ceaf97d947a4e8f11942e6f626cc6af7302ca18b310dac6be",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/edital-032022-prae.pdf",
@@ -1581,7 +2007,7 @@
       "title": "Edital PRAE 03/2022 - Escolha de membros para o CAE"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2023/edital-de-ivs-indice-de-vulnerabilidade-social": {
-      "checked_at": "2026-11-14T15:20:33.837510+00:00",
+      "checked_at": "2026-11-14T17:05:46.098027+00:00",
       "hash": "dc98cde388f3f3cd84432d43cec412d9897a82c0cea30b97d0346999e980f83d",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2023/edital-de-ivs-indice-de-vulnerabilidade-social/edital_ivs_pbp-docx_assinado.pdf",
@@ -1590,7 +2016,7 @@
       "title": "Edital de IVS (Índice de Vulnerabilidade Social)"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae": {
-      "checked_at": "2026-11-14T15:20:34.271785+00:00",
+      "checked_at": "2026-11-14T17:05:43.008531+00:00",
       "hash": "8a4d6d20e5e28d46d6e44746b7a7094057d5e55a6ad01b22eaf68030c264e4b4",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/edital-cae-2025.pdf",
@@ -1603,7 +2029,7 @@
       "title": "Edital 01/2025 - Escolha para membros do CAE"
     },
     "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec": {
-      "checked_at": "2026-11-14T15:20:28.830770+00:00",
+      "checked_at": "2026-11-14T17:05:55.219966+00:00",
       "hash": "819936f09bbe712acd71f407a078073c3c1e195d3c255b0c464e548e9689f006",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/edital-no-130-2026-compec-programa-de-apoio-a-expansao-da-rede-federal",
@@ -1615,7 +2041,7 @@
       "title": "Edital no 130/2026 – COMPEC"
     },
     "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/edital-no-130-2026-compec-programa-de-apoio-a-expansao-da-rede-federal": {
-      "checked_at": "2026-11-14T15:20:41.674241+00:00",
+      "checked_at": "2026-11-14T17:06:15.229585+00:00",
       "hash": "bcde8c4bc3ff3901dfab869289bcd9e99905746392d609fca944581240db10f8",
       "links": [
         "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/edital-130-2026-selecao-de-professores-ted-apoio-a-implantacao-sape-queimadas.pdf",
@@ -1633,7 +2059,7 @@
       "title": "Edital no 130/2026 – Seleção de Professor-Formador (Sapé e Queimadas)"
     },
     "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec": {
-      "checked_at": "2026-11-14T15:20:29.331995+00:00",
+      "checked_at": "2026-11-14T17:05:54.792991+00:00",
       "hash": "9b0d728d661c2b268e305a3cb3a4b441a38e97e8e54e86ab0e7b8f895d331e52",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec/edital-no-147-2026-compec-apoio-as-atividades-academicas-e-administrativas-e-agente-de-cuidados-de-criancas-programa-mulheres-mil",
@@ -1642,7 +2068,7 @@
       "title": "Edital no 147/2026 – COMPEC"
     },
     "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec/edital-no-147-2026-compec-apoio-as-atividades-academicas-e-administrativas-e-agente-de-cuidados-de-criancas-programa-mulheres-mil": {
-      "checked_at": "2026-11-14T15:20:42.876456+00:00",
+      "checked_at": "2026-11-14T17:06:13.194479+00:00",
       "hash": "0796579c34b11605c172f462d04321fefefd47816f74ac56bca8f8be762dacaf",
       "links": [
         "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/edital-147-2026-apoio-administrativo-e-agentes-de-cuidado-mmil.pdf",
@@ -1658,7 +2084,7 @@
       "title": "Edital no 147/2026 – Seleção de Apoio e Agentes para o Programa Mulheres Mil"
     },
     "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec": {
-      "checked_at": "2026-11-14T15:20:29.745721+00:00",
+      "checked_at": "2026-11-14T17:05:53.861456+00:00",
       "hash": "40444e80d2147bcb6803f0b0d5f3740e456a8daf5e42fcbf984950d33d5aa130",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/edital-no-148-2026-compec-mobilizadora-social-programa-mulheres-mil",
@@ -1667,7 +2093,7 @@
       "title": "Edital no 148/2026 – COMPEC"
     },
     "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/edital-no-148-2026-compec-mobilizadora-social-programa-mulheres-mil": {
-      "checked_at": "2026-11-14T15:20:43.490744+00:00",
+      "checked_at": "2026-11-14T17:06:12.031660+00:00",
       "hash": "b9210d643a989877f389f9dc5f98dbc1d431742c6f8ea60f2e489a8cb2377aa6",
       "links": [
         "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/edital-148-2026-mulheres-mil-mobilizadora-social.pdf",
@@ -1682,7 +2108,7 @@
       "title": "Edital no 148/2026 – Programa Mulheres Mil + Cuidados"
     },
     "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec": {
-      "checked_at": "2026-11-14T15:20:30.260659+00:00",
+      "checked_at": "2026-11-14T17:05:53.217912+00:00",
       "hash": "2104d8fc51136874b19bc46148a96a77466c30432bf3a9d8ddcb6c36f9294622",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/convocacao_edital_n-c2-ba_151_2026_-_campus_catole_do_rocha_-_ana_e_debora_assinado.pdf",
@@ -1691,7 +2117,7 @@
       "title": "Edital no 151/2026 – COMPEC"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb": {
-      "checked_at": "2026-11-14T15:20:20.082681+00:00",
+      "checked_at": "2026-11-14T17:06:01.804564+00:00",
       "hash": "48e916d6b5ef9833e6befeb2b546e81fd77983e72b2dc7b08c27eec2e6416e2f",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/edital_de_composicao_do_conselho_editorial_retificado_assinado_assinado.pdf",
@@ -1706,13 +2132,13 @@
       "title": "Edital n° 01/2026 - Editora IFPB"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/formulario-de-inscricao": {
-      "checked_at": "2026-11-14T15:20:40.540856+00:00",
+      "checked_at": "2026-11-14T17:06:16.655289+00:00",
       "hash": "619de383609aad203c0a87001ec55821bb3e51f92dd294f1971b9c188e227bfd",
       "links": [],
       "title": "Formulário de inscrição - Processo seletivo para composição do Conselho Editorial da Editora IFPB (biênio 2026-2028)"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026": {
-      "checked_at": "2026-11-14T15:20:19.045120+00:00",
+      "checked_at": "2026-11-14T17:06:02.375243+00:00",
       "hash": "2b8bdad57d0f296654c141ea018a2cbc4ce29570f37e3b1925759bc59d95ec86",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026/edital-25-2026-artigos.pdf",
@@ -1721,7 +2147,7 @@
       "title": "Edital PRPIPG no 25/2026"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026": {
-      "checked_at": "2026-11-14T15:20:23.458647+00:00",
+      "checked_at": "2026-11-14T17:06:00.553716+00:00",
       "hash": "1c5144e72ddc2234ccf06e0995df576efd341f9a3c585d0dc81a1bd70da294c2",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026/edital-26_2026-connepi-meninas.pdf",
@@ -1730,7 +2156,7 @@
       "title": "Edital PRPIPG no 26/2026"
     },
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026": {
-      "checked_at": "2026-11-14T15:20:24.715919+00:00",
+      "checked_at": "2026-11-14T17:05:59.878288+00:00",
       "hash": "19eae555830001a1c1b8b7d51667e8c6dfcd95496aecd49ad7fc95babfec45dc",
       "links": [
         "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026/edital-connepi-robotica.pdf",
@@ -1740,8 +2166,8 @@
       "title": "Edital PRPIPG no 27/2026"
     },
     "https://www.ifpb.edu.br/search": {
-      "checked_at": "2026-11-14T15:20:54.889859+00:00",
-      "hash": "bc9512b61defe02f885467a3d4a55a773c52ac58bffabbd272a8a20f06270552",
+      "checked_at": "2026-11-14T17:06:20.913080+00:00",
+      "hash": "fab6e968d7ece813812defad0de891400e75e7c0c29052bca202be6c78b7f1f3",
       "links": [
         "https://www.ifpb.edu.br/campus/monteiro/editais/direcao-geral/2025-1/edital-no-34-2025/edital-dg-no-34-2025_dignidade-menstrual-2025.pdf/@@download/file",
         "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2026/07/campus-joao-pessoa-convoca-candidatos-da-6a-lista-de-espera-do-sisu/sisu-5a-lista-de-espera.jpg",
@@ -1772,7 +2198,7 @@
       "title": "Search"
     },
     "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep": {
-      "checked_at": "2026-11-14T15:20:27.527662+00:00",
+      "checked_at": "2026-11-14T17:05:56.830019+00:00",
       "hash": "40b44ea02a6d73565e7878e96776c8da2c68aa904aa6042f5eb2a23d61eda993",
       "links": [
         "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep/edital-20-2026-dgep-ebtt.pdf",
@@ -1783,7 +2209,7 @@
       "title": "Edital no 020/2026 - DGEP"
     },
     "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1": {
-      "checked_at": "2026-11-14T15:20:25.919583+00:00",
+      "checked_at": "2026-11-14T17:05:58.415598+00:00",
       "hash": "12234c4594b8f2f901bed8bce091469fbc51bf52e1b6472acab9d5f6509bcd4b",
       "links": [
         "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1/edital-13-2026-remocao-docente.pdf",
@@ -1795,7 +2221,7 @@
       "title": "Edital no 013/2026 - DGEP"
     },
     "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026": {
-      "checked_at": "2026-11-14T15:20:26.683196+00:00",
+      "checked_at": "2026-11-14T17:05:57.625074+00:00",
       "hash": "8af78cb8ebc22152966132fb1bdd3c73fe9ef0e3b73de9c2bbbe0bd09474bde7",
       "links": [
         "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026/edital-no-16_2026.pdf",
@@ -1806,7 +2232,7 @@
       "title": "Edital no 16/2026"
     },
     "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026": {
-      "checked_at": "2026-11-14T15:20:28.312916+00:00",
+      "checked_at": "2026-11-14T17:05:55.968013+00:00",
       "hash": "784e4dd8696967bdfa86298ebf12f5a1b315ad4fa519f440604729cd738fce75",
       "links": [
         "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026/edital-21-2026-dgep-tae.pdf",
@@ -1816,6 +2242,18 @@
     }
   },
   "pdfs": {
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-01-2022-classificacao-pbp/edital-prae-012022-pbp.pdf": "2911d82f8dd0eb10ccc72506a80b7c3a0fb85abb20045b1db526ca6218efa15e",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/edital-032022-prae.pdf": "3016aec16d571e8bdc3e0ac983e755d5b50cb5bff6f8dafc8c52578f812d554d",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/lista-de-inscritos-comite-de-assistencia-estudantil.pdf": "4b4f0a4994ebb03139a029caae96bc2a422b6a60a9473433d82219e4b9aded24",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/qr-code-inscricao.pdf": "6baaa599e9a2c764acac5e09d47a8a1720adf4e4c59d78a9b035ba4311984db7",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/resultado-edital-032022-prae.pdf": "83de7bd394fd7f41a9dc2367ee02fb5acccca3f269c9b1204bb6ea9b0e511d43",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/servidores-aptos-comite-de-assistencia-estudantil.pdf": "ba54d2dfaa1d679f31ad170067ba86434094a8ee8589822d9a1edfb75404861e",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2023/edital-de-ivs-indice-de-vulnerabilidade-social/edital_ivs_pbp-docx_assinado.pdf": "8dc10c303dfbf031cb1667d03133f858f72323f21534c0ceebb57784cd9cca22",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/edital-cae-2025.pdf": "759e60185bc65f993fe8cc925f77836782fd9be577bac38d861f215d8072e3ff",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/edital-no-01-2025-prae-cae.pdf": "dae8e37615b6a749d5452f2c627a299bbc3bf749d42f25a043e3c52e0a85af76",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/qr-code-formulario-de-inscricao.pdf": "9d3f0512edb8ce038f552cb900dcc6a6cad05a5aef41e6e0a2c10f9d98327427",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/relacao-de-servidores-votacao-cae.pdf": "7a4250ea4125d33759c1c18f98b679ad662cf144371627cd136a564966920e77",
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/resultado-do-processo-de-consulta-cae-2025.pdf": "4114ec2afcb7d351beafbbad59b496676b307b8a999fea9aacf94034d2eb9e4d",
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/anexo-ii-declaracao-de-ciencia-e-de-inexistencia-de-conflito-de-interesseses.pdf": "16035b229a58e7af93a7840b1a6beeb22859f7f9f97efed25f39ce121d132617",
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/cronograma-retificado.pdf": "76eb494ca41e31dc799647a5305c46b3fd3ddbb2411244d929862c91b2b6fdbd",
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/edital-n-01_2026-edit-composicao-do-conselho-editorial-2026-2028.pdf": "db41ab2f33c37880bbda2b32f08673b339c14bff4922199c7db35562cdb7b94d",
@@ -1829,5 +2267,49 @@
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026/formulario-painel-meninas-na-ciencia-connepi-2026-resultado-preliminar.pdf": "396beaf3019a72d68dae33841804c6ecfb09f8b3babd6fadb07684abcaab65a5",
     "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026/edital-connepi-robotica.pdf": "f5d9cb89a937d77df253e86cf4fb31c297891cf1a86795ba2503305688cfffcb"
   },
-  "sent": []
+  "pending": [],
+  "sent": [
+    "01674b86bb5954d8e5b17189c845febfbc61a49a3089944fa41945d8fb4660eb",
+    "9d7e88aec8edd7083f0104c830f76d45544fefeacb43cb9f34e66d4657a4bbed",
+    "572aa8d45d4f285db45aab531ea92d5f28b5192727952aa2557429463c1ca936",
+    "730a9751a4a824f42e2aee2fa1ea8403608e0e36e04b0e0be817edddad6faebc",
+    "ff03835c0081c472b958e25da04b231214bc8b009110ed2eefcaccff4e417d32",
+    "5484cbd89908c3d025cea9f52e3f52eb784aa67f71b7b4b600d2e160d5bf5dbd",
+    "e2a7fa028d3b77abe2e89a4af312e4b595db3cf3c2d6c4fbef4cbbcb119005e0",
+    "7b8e2e943cf4af6bcf8e4f69a5c2f61e70430a951034850ab25f842fd327ec9c",
+    "e3c8112fb94304ba70eff9ea1e49e9409a73622c848be8ada18eda738ebf3906",
+    "708426bf398de8463a7a74fdaa58a2dd48a13a3714a96399be96d1f10d834f41",
+    "be5371672ed7f5b5158e011faa98378199df098cb4b475ecf6e73a9f7edce976",
+    "2dd813fe54508f9c2eeeed8e5de6953c20eb840f168e375553def5bf077ec47f",
+    "8371e4204cb3b7522dde3e5b0de8ee2fa32e5217ead8293a6f7d3c1db9a6a535",
+    "e450d2bb36a2ab03b98d2e925b9a49f81f1b794c2226917e2d575117f3423806",
+    "de18a1260acc7e00170378d9dc54e4c031e0abd0cddbd21dbd06c7a49deedc6d",
+    "74973ccc5d3b636fca7632fc287b6a73255dbed98ddb25e8eeca3d3a52a36835",
+    "9d55c74823393ed641ebce8f99584ff4e9967187f8f3c4efdf80a1301148f973",
+    "0256519ebffad572f5361fa960b5334c8d1f77818ed87455d6f9e9efb82d142d",
+    "fa79b929f36c17020a3dd05aba43db91d7b4b9b14d78c3fdd84b13cd130131ce",
+    "19aef20ce10c87e0fd01b77ab1f52616336d734733d3899190981647ed850dce",
+    "1b4e5a0bf7ada21c789b0ee38b5a44866e71bef2f21a3c01ca2c5613fe002cb4",
+    "bc6eab1ca8d58ab603a65fd79a7e9b84b03fc90d714bc7a7a52bcfb92dae0b46",
+    "9a1babb55a77cc17dcf308128218a6eba895b8b61fd488513eab7988adabacb7",
+    "f49ddfd7ff898164879e0b8874de402d808c94a5c665da79514b077e05e6a36c",
+    "9bad2c1e9e476a7fdb7c488a89e4335ebed72ce051541d056e06b0d8d0cd0472",
+    "ca22945949b078ea3b55b229a63a06b4fd1938893cf64ab2f2fe01686efd2659",
+    "899f725a3ea944e424c22a8b978a3c1732c05b658449433a916a29534710fbd1",
+    "c966003ac930162cb2cc67fa315757f36d85f6dd0c08bd340610886940bc20da",
+    "6a811cc5c84347aff171475f86c4df5e751a46180b95faa3414a8ca06ee3cd5e",
+    "9bdf781cc72aab9d47689053b3758eafda32cadae0f6939092b00f91053c152a",
+    "9fef6a3f7bdd8c4cfd414559205221a671abde7d5d3d53f0e2f1b344690520b5",
+    "b63f3915d6aa0e8fa50a4aff98614c2559d475762041d3beb9663461a1065b46",
+    "80761c6215771e74157bdc93f18fa64caf5d61ede1ca38f6b9e8bd2fbc04544f",
+    "49dcddf1256043b0118efc336aba3ba97ef70a3ba275627b0e8596454cf87b4a",
+    "1955273b1a1b2bef52ab82a25257b221a023058236668c827345cb1b8c95a1bb",
+    "c67dd1ec2262c7b5b6732948ce73696e0329e6ac623fb392452f753cb251ddb2",
+    "2226e2359d82a62a68f4e56c57f5cb499d96dde1df8b3a0d3ea626bf7a815224",
+    "3bf5293e676c136ba5a12b21166bc45e180a353bfef1d04c48f6130dbcd1dea6",
+    "b93faaf72f2cdbaa8614a88dd5155135d4ec959018f7aefdf2c0db4a761d7eb9",
+    "44de25c8de7e6fe97bdde8f29a25c377333b2d1a38f78ac6b24486f105664555",
+    "d8110445c253c7d80232078c381f537beb345d6536737330a8bc8ec330bd0273",
+    "7d853e2857f6a8bd5c9a348d0d2f902078341b7ae33844a5316bd60fc50b2b9c"
+  ]
 }
