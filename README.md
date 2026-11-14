@@ -1,39 +1,32 @@
-# Monitor IFs — Diego Tech
+# Monitor IFs — Diego Tech v3.0
 
-Monitor experimental de notícias, editais e documentos do IFSertãoPE, IFPB e COMPEC/IFPB.
+Três coletores independentes: `monitor/portais/ifsertaope.py`, `ifpb.py` e `compec.py`. Compartilham apenas HTTP, histórico e Telegram em `monitor/common.py`.
 
-## Instalação no GitHub (sem computador ligado)
+## Teste manual no GitHub Actions
 
-1. Crie um **repositório privado** no GitHub, por exemplo `monitor-ifs-diego-tech`.
-2. Envie **todos os arquivos e pastas** deste projeto, incluindo `.github/workflows/monitor.yml`.
-3. No Telegram, abra `@BotFather`, envie `/newbot`, escolha nome e usuário e copie o token. **Não compartilhe o token.**
-4. Abra a conversa com o bot recém-criado e envie `/start`.
-5. Descubra seu chat ID abrindo no navegador `https://api.telegram.org/botSEU_TOKEN/getUpdates` (substitua `SEU_TOKEN`). Procure `message.chat.id`. Não compartilhe a URL com o token.
-6. No repositório, vá a **Settings > Secrets and variables > Actions > New repository secret**. Crie `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID`.
-7. Vá a **Settings > Actions > General > Workflow permissions**, marque **Read and write permissions** e salve. Confirme que Actions está habilitado.
-8. Vá a **Actions > Monitor IFs - Diego Tech > Run workflow**. Confira os logs. A primeira execução cria o histórico sem enviar notícias antigas.
-9. Verifique se `data/state.json` apareceu no repositório. O agendamento pede execução a cada 15 minutos; o GitHub pode atrasar ou deixar de executar alguns agendamentos.
+1. Coloque os arquivos na raiz do repositório (sem substituir `.git`).
+2. Envie para uma ramificação experimental.
+3. Para aparecer na aba Actions, registre **somente** `.github/workflows/monitor-v3.yml` na ramificação padrão. O workflow será executado na ramificação selecionada em `Run workflow`.
+4. Em Actions > **Monitor IFs v3 - Teste Telegram**, selecione a ramificação experimental e o portal `all`.
+5. Os secrets `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID` devem existir no repositório.
 
-## Executar localmente (opcional)
+O teste `test-latest` não modifica arquivos `data/*.json` e envia até três mensagens de teste, uma por portal. Se o portal estiver bloqueado ou sem itens verificáveis, não inventa mensagem. A COMPEC ainda não possui data estruturada: neste caso, a mensagem de teste utiliza o primeiro link relevante da página, **não garante a publicação cronologicamente mais recente**.
 
-```powershell
-py -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-$env:TELEGRAM_BOT_TOKEN="SEU_TOKEN"
-$env:TELEGRAM_CHAT_ID="SEU_CHAT_ID"
-python -m monitor.main
-```
+## Teste local sem Telegram
 
-## Limitações e cuidados
+`python -m unittest discover -s tests -v`
 
-- **Versão experimental**: os seletores e fluxos de navegação dos três portais ainda precisam ser validados em acesso real. O coletor genérico pode perder publicações carregadas por JavaScript, paginação não convencional e PDFs fora do orçamento de downloads.
-- A comparação textual pode produzir falsos positivos ou ignorar alterações sutis; PDF é comparado por SHA-256 apenas quando efetivamente baixado.
-- `MAX_PAGES_PER_SOURCE` (padrão 8), `MAX_DETAILS_PER_RUN` (45) e `MAX_PDFS_PER_RUN` (12) limitam a carga. A cobertura **não é integral**. Ajuste com cuidado e respeite os sites.
-- O robô pode enviar vários avisos relacionados à mesma atualização; a deduplicação usa origem, tipo, URL e hash. Não há agrupamento inteligente de processos nesta versão.
-- **Atenção:** alterações detectadas enquanto o Telegram estiver indisponível não são mantidas em fila durável. A versão inicial evita marcar alertas como enviados, mas pode deixar de avisar uma alteração após o histórico ser atualizado.
-- O GitHub Actions pode suspender workflows agendados em repositórios públicos inativos e possui cotas; confira as condições vigentes da sua conta.
-- Não publique tokens nem chat IDs no código ou em screenshots. Preferir repositório privado.
-- Para produção, adicionar testes com páginas reais, rastreamento de paginação por portal, fila persistente e priorização de PDFs.
+## Execução de monitoramento (somente após validação)
 
-**Assinatura das mensagens:** Desenvolvido por Diego Tech 🚀
+`python -m monitor.main --mode monitor --portal all`
+
+O modo monitor cria histórico inicial por portal sem enviar publicações antigas; documentos novos em editais já conhecidos podem gerar alerta. O estado `data/<portal>.json` precisa persistir entre execuções, caso contrário a automação não detectará novidades. **Esta versão não ativa agendamento nem commit automático de histórico**. Primeiro valide o Telegram e depois configure a persistência e o agendamento. O `monitor.yml` antigo, se existir no repositório, deve ser desabilitado antes de colocar v3 em produção para evitar execuções paralelas.
+
+### Limitações atuais
+
+- Radware pode bloquear o IFSertãoPE; páginas bloqueadas não são tratadas como vazias.
+- A descoberta do IFPB é limitada a links das listagens consultadas, mais o edital 161/2026 como caso conhecido; ampliar os caminhos dos campi após validar.
+- A COMPEC utiliza uma heurística de links da página inicial, ainda sem extração comprovada de publicações internas. Não considere seu teste como prova de cobertura completa.
+- A coleta é somente leitura; não há contorno de CAPTCHA.
+
+Rodapé de todas as mensagens: **Desenvolvido por Diego Tech**.

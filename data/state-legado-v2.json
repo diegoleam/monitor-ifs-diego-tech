@@ -1,0 +1,1833 @@
+{
+  "initialized": true,
+  "pages": {
+    "https://concursos.ifpb.edu.br/": {
+      "checked_at": "2026-11-14T15:20:59.424141+00:00",
+      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+      ],
+      "title": "COMPEC - Concursos"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f/editais": {
+      "checked_at": "2026-11-14T15:21:13.887145+00:00",
+      "hash": "059836c570b493900bae95179e670beefd7e6a8934fe15c1cbf00c32349b34d9",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/461"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/64eae5c8-e830-49f8-bd29-561236d41fad/editais": {
+      "checked_at": "2026-11-14T15:21:17.825536+00:00",
+      "hash": "115713cb060f65d6dfc5fc8371184895d3d99bba51c1cdf49906ee62963e5b17",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/editais": {
+      "checked_at": "2026-11-14T15:21:24.602888+00:00",
+      "hash": "30b1ed21bdbb343845931722d000167b920b2044a74b9f2cedc7923d52a7acb0",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537/editais": {
+      "checked_at": "2026-11-14T15:21:19.000528+00:00",
+      "hash": "031ded1e84ae26156cc4a465331ea9a2b1f3aa8d5276c66fd426720a6f0c503d",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/468"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc/editais": {
+      "checked_at": "2026-11-14T15:21:16.651959+00:00",
+      "hash": "0afe69d90ae16878c646a3d56c91f56dc678558efb2ccf94ed57696f829da25c",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
+        "https://concursos.ifpb.edu.br/editais/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc/None"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/editais/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b/editais": {
+      "checked_at": "2026-11-14T15:21:23.419155+00:00",
+      "hash": "25e4cedeb0f28bca6682b7084dbe25704d89e58555dbab720c486d14c73108fe",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil"
+      ],
+      "title": "COMPEC - Edital"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3905": {
+      "checked_at": "2026-11-14T15:21:03.958788+00:00",
+      "hash": "e9749dafecc3f35e1212efaf7946cd1cfa45b95b6c47a9acb9494db8f21aa7f7",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+      ],
+      "title": "COMPEC - 1 - Especialização em Ensino de Ciências e Matemática - Grupos 1 ao 4 - Alagoa Grande"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3906": {
+      "checked_at": "2026-11-14T15:21:04.372561+00:00",
+      "hash": "e9c20892e45744a7364bf14bff9e20068f3580ddda004572ea39289b0df87a52",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+      ],
+      "title": "COMPEC - 2 - Especialização em Ensino de Ciências e Matemática - Grupos 1 ao 4 - Itaporanga"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3907": {
+      "checked_at": "2026-11-14T15:21:04.797877+00:00",
+      "hash": "21cf0bdc84902d7094548c90511af1c5efbc70ba3f1f743a40d760750bb67b71",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+      ],
+      "title": "COMPEC - 3 - Especialização em Ensino de Ciências e Matemática - Grupos 1 ao 4 - João Pessoa"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3909": {
+      "checked_at": "2026-11-14T15:21:12.671971+00:00",
+      "hash": "7778d25b19714edc4a3e5544315f9c0cbf7373c1a13e29a92ec253fa735ba080",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+      ],
+      "title": "COMPEC - 5 - Especialização em Ensino de Ciências e Matemática - Grupos 1 ao 4 - Mari"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3910": {
+      "checked_at": "2026-11-14T15:21:13.090323+00:00",
+      "hash": "3d77aff3e143f71911fdbd11f6386aa351cb11570e3cae14b3ba459e0358c236",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+      ],
+      "title": "COMPEC - 6 - Especialização em Ensino de Ciências e Matemática - Grupos 1 ao 4 - Patos"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3911": {
+      "checked_at": "2026-11-14T15:21:13.496360+00:00",
+      "hash": "b9ecf40299185b0c7553286f8bf1f37fe1ea04c946f5660044c5548975501e05",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f"
+      ],
+      "title": "COMPEC - 7 - Especialização em Ensino de Ciências e Matemática - Grupos 1 ao 4 - Taperoá"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3972": {
+      "checked_at": "2026-11-14T15:21:18.616127+00:00",
+      "hash": "4d9b92e69e9221ed144b7799a143e1054526475c5619efe3dde425aa0d0e16bc",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537"
+      ],
+      "title": "COMPEC - 1 - Especialização em Ciências de Dados - Ciências de Dados - Cajazeiras"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3974": {
+      "checked_at": "2026-11-14T15:21:14.665437+00:00",
+      "hash": "50fabf79a7e98724ca2cd2d59d5f5a75343a043e4a5daf7200e3c66d28101f90",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc"
+      ],
+      "title": "COMPEC - 1 - Apoio Acadêmico e Financeiro - Alagoa Grande"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3975": {
+      "checked_at": "2026-11-14T15:21:15.062793+00:00",
+      "hash": "50fb3b7aea50dd8009a5e0c22eb394e285a384392f166681edb5346a81a63965",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc"
+      ],
+      "title": "COMPEC - 2 - Apoio Acadêmico e Financeiro - Mamanguape"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3976": {
+      "checked_at": "2026-11-14T15:21:15.458085+00:00",
+      "hash": "90fc8085bffb4ba9148be59c687b1a1bee1b6cf9c8b77adb1ce993ad0af56503",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc"
+      ],
+      "title": "COMPEC - 3 - Agente de Cuidados de Crianças - Alagoa Grande"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3977": {
+      "checked_at": "2026-11-14T15:21:15.870343+00:00",
+      "hash": "6ec5e8840da1057d2b0d70caae0c6bc3dcc68d752203bcc1c58806c937737770",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc"
+      ],
+      "title": "COMPEC - 4 - Agente de Cuidados de Crianças - Mamanguape"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3978": {
+      "checked_at": "2026-11-14T15:21:16.267851+00:00",
+      "hash": "03b7381ce9044e1ef3d8a60803021e604536522ec9a46af8404d22584fa8cf05",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc"
+      ],
+      "title": "COMPEC - 5 - Agente de Cuidados de Crianças - Sapé"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3979": {
+      "checked_at": "2026-11-14T15:21:17.440274+00:00",
+      "hash": "af81c419e4e126cb697d6ea30b752644d63467f19f52beff3d9d64c5f33811ca",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad"
+      ],
+      "title": "COMPEC - 1 - Mobilizadora Social - Mangabeira"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3980": {
+      "checked_at": "2026-11-14T15:21:24.211520+00:00",
+      "hash": "50b51cd794607d3261d43274ca8ac4a6cc334801fe8df7f1b6e3cbc09a74dabe",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5"
+      ],
+      "title": "COMPEC - 1 - Professor Substituto - Sociologia - Princesa Isabel"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3981": {
+      "checked_at": "2026-11-14T15:21:19.798747+00:00",
+      "hash": "41adf0dcdd5ecbc66a9a9e0755c825f7824ab07d8d000757dc41cac9d3482cc1",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 1 - Professor Formador - Leitura, Escrita e Oralidade - Sousa"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3982": {
+      "checked_at": "2026-11-14T15:21:20.194062+00:00",
+      "hash": "6528a8f8380b7e87ff013beafa9d18e97664b138f9ec9ef166c72635ee6e044f",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 2 - Professor Formador - Inclusão Digital voltada para o Exercício da Cidadania - Sousa"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3983": {
+      "checked_at": "2026-11-14T15:21:20.597429+00:00",
+      "hash": "e6b7fc3c8ba3dd7087178ada04472429c6262ddf92383c7d54bf86f2039353c5",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 3 - Professor Formador - Anatomia da pele. Higiene, saúde e segurança no trabalho da maquiadora - Catolé do Rocha"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3984": {
+      "checked_at": "2026-11-14T15:21:21.000004+00:00",
+      "hash": "2e4f704f5c47a9fb03b4354630219b166d8d5e2cb1d3cea36b400009dcfd6084",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 4 - Professor Formador - Maquiagem: Teoria e Profissionalização - Catolé do Rocha"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3985": {
+      "checked_at": "2026-11-14T15:21:21.399083+00:00",
+      "hash": "dbb14ef7c9ed911f17b82136e146cfadf3bbfb9390ea47048cc8916f0864d357",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 5 - Professor Formador - Prática no Trabalho de Maquiagem e Técnica Profissional - Catolé do Rocha"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3986": {
+      "checked_at": "2026-11-14T15:21:21.804878+00:00",
+      "hash": "68453208f4bfe0684ecfb701aa21fa8670925697283b488fdf9fcc18ab7aa4a1",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 6 - Professor Formador - Produção de produtos de Panificação - Santa Luzia"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3987": {
+      "checked_at": "2026-11-14T15:21:22.207925+00:00",
+      "hash": "6ad859733d60709dc075810641e3774bdb294f36647ec4fe87ec7164a28fbdc8",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 7 - Professor Formador - Desenvolvimento Infantil e Ludicidade - Sapé"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3988": {
+      "checked_at": "2026-11-14T15:21:22.605933+00:00",
+      "hash": "9498f4f2c98f744048d8d96e1fa8ff4bd81d921f782bc377fdabb58473006fde",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 8 - Professor Formador - Patologias e Uso Crônico de Medicamentos - Queimadas"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3989": {
+      "checked_at": "2026-11-14T15:21:23.011958+00:00",
+      "hash": "7fbe08d6c63805b9afd9e660cd6b73612ca097d6cdfca45fea64cd963579cc1c",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b"
+      ],
+      "title": "COMPEC - 9 - Professor Formador - Prática: aplicação dos cuidados com os idosos - Queimadas"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f": {
+      "checked_at": "2026-11-14T15:20:59.835354+00:00",
+      "hash": "943724e71052e2028c61641652b893f9fcc6d49c29dea7af0a95b25bd0c6276f",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3905",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3906",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3907",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3908",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3909",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3910",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3911",
+        "https://concursos.ifpb.edu.br/editais/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f/documentos"
+      ],
+      "title": "COMPEC - Edital 8/2026-DPG/PRPIPG - Proc Sel para Especialização em Ensino de Ciências e Matemática - Edital 127/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f/documentos": {
+      "checked_at": "2026-11-14T15:21:14.268697+00:00",
+      "hash": "f0ca1f863cd0f3b809e195cd13c4d4cfe5a65d146724a7379ae751cbccc2adbc",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/461"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6": {
+      "checked_at": "2026-11-14T15:21:02.738526+00:00",
+      "hash": "73cbff01eb5bbed55e1087a8c4492febdae460d64fc605d1368f589df3f7d372",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/candidatos/redirect/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3999",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4000",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4001",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4002",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/4003",
+        "https://concursos.ifpb.edu.br/editais/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6/documentos"
+      ],
+      "title": "COMPEC - Proc Sel para Especialização em Gestão Pública - Edital 19/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7": {
+      "checked_at": "2026-11-14T15:21:03.139699+00:00",
+      "hash": "c682547b7560962bab148d428830ea91ef2a4a643c02321eb33f34428b36e817",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/candidatos/redirect/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3990",
+        "https://concursos.ifpb.edu.br/editais/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7/documentos"
+      ],
+      "title": "COMPEC - Proc Sel para Especialização em Gestão dos Recursos Ambientais do Semiárido - Edital 16/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad": {
+      "checked_at": "2026-11-14T15:21:00.664230+00:00",
+      "hash": "e19c3595dd93a3aafc7e2460bbd8f54cfc21487910bb166210835a55b291d02a",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3979",
+        "https://concursos.ifpb.edu.br/editais/concurso/64eae5c8-e830-49f8-bd29-561236d41fad/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad/documentos"
+      ],
+      "title": "COMPEC - Processo Seletivo Bolsista - Programa Mulheres Mil+Cuidados - Edital 148/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad/documentos": {
+      "checked_at": "2026-11-14T15:21:18.210840+00:00",
+      "hash": "7ad7faa0f2b5b1d72350bda405f0d011a9028de82ed94e4eaf212aba2da96fde",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9": {
+      "checked_at": "2026-11-14T15:21:03.543817+00:00",
+      "hash": "68cf34803b93cebf9ada6f80f11cdb6407f98222174450eb3a6b9bc947ffb25f",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/candidatos/redirect/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3973",
+        "https://concursos.ifpb.edu.br/editais/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9/documentos"
+      ],
+      "title": "COMPEC - PSCS 2027.1 - PSCS/PRONERA - Campus Sousa - Edital 143/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5": {
+      "checked_at": "2026-11-14T15:21:01.923064+00:00",
+      "hash": "aae748a2a30fe56dabcbd2a9e4b50caafd76a6849cd4acc4ba7f7d719b27ea12",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3980",
+        "https://concursos.ifpb.edu.br/editais/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/documentos"
+      ],
+      "title": "COMPEC - Processo Seletivo Simplificado para Professor Substituto - Edital 149/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5/documentos": {
+      "checked_at": "2026-11-14T15:21:24.987419+00:00",
+      "hash": "aeae1e1ab2b097e54e2d1ac4444c52c0a1d101a22cdec7fb1de392432de5825c",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537": {
+      "checked_at": "2026-11-14T15:21:01.067726+00:00",
+      "hash": "85398059ecd8d7beb36b6218ab6374bcc2145a01c24a8fa4f784f121b358e8ce",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3972",
+        "https://concursos.ifpb.edu.br/editais/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537/documentos"
+      ],
+      "title": "COMPEC - Proc Sel para Especialização em Ciências de Dados - Edital 29/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537/documentos": {
+      "checked_at": "2026-11-14T15:21:19.391900+00:00",
+      "hash": "43a4f2c0560f449055870af897d947585ddbcc8ba93abce778192c9e4aa6bdd1",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/468"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc": {
+      "checked_at": "2026-11-14T15:21:00.259878+00:00",
+      "hash": "7da70ee793ac372b0da3832fa72e0ac082bb6a19352cca695b7f186feac28e56",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3974",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3975",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3976",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3977",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3978",
+        "https://concursos.ifpb.edu.br/editais/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc/documentos"
+      ],
+      "title": "COMPEC - Processo Seletivo Bolsista Apoio Administrativo e CUIDOTECAS para o Programa Mulheres Mil - Edital 147/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc/documentos": {
+      "checked_at": "2026-11-14T15:21:17.046845+00:00",
+      "hash": "4fd80201210782387632b082b450afdc6d0bfbf5a1e96d2cb3d06a3708f49f49",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4": {
+      "checked_at": "2026-11-14T15:21:02.333136+00:00",
+      "hash": "1823d4d0928c0f37143a4fbd906686ab5f24f11395eb021cfe9120e458d279bd",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/candidatos/redirect/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3991",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3992",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3993",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3994",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3995",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3996",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3997",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3998",
+        "https://concursos.ifpb.edu.br/editais/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4/documentos"
+      ],
+      "title": "COMPEC - Proc Sel para Especialização em Gestão na Educação Profissional e Tecnológica - Edital 18/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b": {
+      "checked_at": "2026-11-14T15:21:01.496612+00:00",
+      "hash": "a7eae0f8b92980e098ed947503bab85eb3cecab178ae0dac1ba8ac6cb2cfd93f",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3981",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3982",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3983",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3984",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3985",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3986",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3987",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3988",
+        "https://concursos.ifpb.edu.br/processos_seletivos/codigo-perfil-concurso/3989",
+        "https://concursos.ifpb.edu.br/editais/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b/editais",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b/documentos"
+      ],
+      "title": "COMPEC - Processo Seletivo Bolsista - Programa Mulheres Mil - Edital 151/2026"
+    },
+    "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b/documentos": {
+      "checked_at": "2026-11-14T15:21:23.804747+00:00",
+      "hash": "1b975829ea1522a57b0a95ee22d9a3dc362c78d8c240189bb6be1c0bfe70584f",
+      "links": [
+        "https://concursos.ifpb.edu.br/",
+        "https://concursos.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil"
+      ],
+      "title": "COMPEC - Publicações"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo": {
+      "checked_at": "2026-11-14T15:20:50.745047+00:00",
+      "hash": "7ee6e3b350a2e5c70d97010a88a4f41e29e22637bf01fe1f7e6b6f46bd6cd95a",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/1": {
+      "checked_at": "2026-11-14T15:20:52.764880+00:00",
+      "hash": "f09a3a1c82620e353dc536f255e09bf6f24eb55b3bd22378211ce1542aaff37a",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/470",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/464",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/465",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/466",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/443",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/444",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/462",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/460",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/403",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/404",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/405",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/430",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicao/427",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/campus-cajazeiras-abre-selecao-para-cursos-tecnicos-integrados-com-160-vagas",
+        "https://estudante.ifpb.edu.br/noticias/lista-preliminar-e-divulgada",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-e-if-sertao-pb-abrem-inscricoes-para-4195-vagas-em-cursos-tecnicos-gratuitos",
+        "https://estudante.ifpb.edu.br/noticias/tag/psct"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/11": {
+      "checked_at": "2026-11-14T15:20:58.349439+00:00",
+      "hash": "14dc41254b0bf79a5d33dda6e71103ec40665a0f62c8c0e18d82bc11644e67f5",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicao/467",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicao/438",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicao/387",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicao/406",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicao/354",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicao/345",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicao/160",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/abertas-inscricoes-para-estagio-nao-obrigatorio-na-reitoria",
+        "https://estudante.ifpb.edu.br/noticias/encontro-nacional-de-integracao-do-programa-jovem-aprendiz",
+        "https://estudante.ifpb.edu.br/noticias/estudantes-do-ifpb-ampliam-chances-no-mercado-de-trabalho",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-realiza-parceria-com-curso-de-psicologia-da-unipe",
+        "https://estudante.ifpb.edu.br/noticias/programa-aprendiz-if-notrabalho-divulga-resultado-final",
+        "https://estudante.ifpb.edu.br/noticias/programa-piloto-oferta-06-bolsas-para-estudantes-do-ifpb",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-realiza-palestra-sobre-estagio",
+        "https://estudante.ifpb.edu.br/noticias/empresa-cadastra-estudantes-do-ifpb-para-o-jovens-aprendizes",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-realiza-palestras-virtuais-sobre-estagio-nesta-quinta-04",
+        "https://estudante.ifpb.edu.br/noticias/programa-jovem-aprendiz-do-ifpb-amplia-oportunidade-de-trabalho-aos-estudantes",
+        "https://estudante.ifpb.edu.br/noticias/tag/estagio"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/12": {
+      "checked_at": "2026-11-14T15:20:57.545950+00:00",
+      "hash": "16f9add6a4f04436bca1b9a2fcbda4194e2bff31423527aaa63b10ec64f8317e",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12/edicao/446",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12/edicao/39",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12/edicao/38",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/restricoes-eleitorais-comecam-a-valer-a-partir-de-sabado-0607",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-recebe-premio-cidadania-digital-em-acao",
+        "https://estudante.ifpb.edu.br/noticias/a-huawei-iniciou-nesta-semana-as-inscricoes-para-a-ict-competition-2023-2024-competicao-global-qu",
+        "https://estudante.ifpb.edu.br/noticias/inscricoes-para-monitores-do-simpif-e-congresso-de-ead-comecam-dia-31",
+        "https://estudante.ifpb.edu.br/noticias/estudante-do-ifpb-e-um-dos-finalistas-do-parlamento-jovem-brasileiro-na-paraiba",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-leva-dez-projetos-para-a-3o-edicao-da-snept",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-tem-varios-medalhistas-nos-jogos-dos-institutos-federais-nordeste",
+        "https://estudante.ifpb.edu.br/noticias/encontro-abordara-relacoes-interpessoais-nesta-quinta-14",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-participa-da-expotec-2023",
+        "https://estudante.ifpb.edu.br/noticias/projetos-inovadores-do-ifpb-contribuem-para-a-transformacao-social",
+        "https://estudante.ifpb.edu.br/noticias/tag/ifpb"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/14": {
+      "checked_at": "2026-11-14T15:20:59.185671+00:00",
+      "hash": "8046982a36e1ad528b77da6ceb0125c74b3bf78df2f1dd443aa36e2cd747ec93",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14/edicao/469",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14/edicao/455",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14/edicao/456",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14/edicao/407",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/restricoes-eleitorais-comecam-a-valer-a-partir-de-sabado-0607",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-recebe-premio-cidadania-digital-em-acao",
+        "https://estudante.ifpb.edu.br/noticias/a-huawei-iniciou-nesta-semana-as-inscricoes-para-a-ict-competition-2023-2024-competicao-global-qu",
+        "https://estudante.ifpb.edu.br/noticias/tag/ifpb"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/17": {
+      "checked_at": "2026-11-14T15:20:56.289838+00:00",
+      "hash": "284f29a3ae321583e203f3043eac6abdb94f2d15ccf8deef520f32a958dcf6c3",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17/edicao/272",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/prae-disponibiliza-5-novas-vagas-do-programa-bolsa-permanencia",
+        "https://estudante.ifpb.edu.br/noticias/inscricoes-para-monitores-do-simpif-e-congresso-de-ead-comecam-dia-31",
+        "https://estudante.ifpb.edu.br/noticias/bolsas-de-estudos-na-europa",
+        "https://estudante.ifpb.edu.br/noticias/programa-aprendiz-if-notrabalho-divulga-resultado-final",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-oferta-bolsas-para-estudantes-e-professores",
+        "https://estudante.ifpb.edu.br/noticias/edital-do-programa-institucional-de-apoio-a-eventos-de-extensao-e-cultura-proevexc-2022",
+        "https://estudante.ifpb.edu.br/noticias/estagio-na-cagepa-inscreve-ate-22-de-junho-com-prova-online",
+        "https://estudante.ifpb.edu.br/noticias/oportunidade-de-bolsa-de-estudo-para-os-alunos-do-campus-esperanca",
+        "https://estudante.ifpb.edu.br/noticias/estudantes-podem-se-inscrever-em-bolsas-de-estudos-para-graduacao-e-pos-graduacao-na-espanha",
+        "https://estudante.ifpb.edu.br/noticias/projeto-de-extensao-seleciona-bolsistas-para-aperfeicoamento-profissional-agricola",
+        "https://estudante.ifpb.edu.br/noticias/tag/bolsas"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/18": {
+      "checked_at": "2026-11-14T15:20:57.950521+00:00",
+      "hash": "6ee99d11268eebb98e7a4fe1cb406a6f2ee45c5180c6597be7722ca47c4f1411",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18/edicao/459",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/especializacao-em-docencia-na-educacao-profissional-e-tecnologica-oferece-240-vagas",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-abre-inscricoes-para-especializacao-em-matematica-no-campus-cajazeiras",
+        "https://estudante.ifpb.edu.br/noticias/lancado-edital-de-inscricoes-para-especializacao-em-ensino-de-matematica",
+        "https://estudante.ifpb.edu.br/noticias/tag/especializacao"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/5": {
+      "checked_at": "2026-11-14T15:20:56.704877+00:00",
+      "hash": "39582b660d1a458776c67e5df7b918a0867bbe202cb366f13f7e714664eeaf7e",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicao/316",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicao/110",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicao/111",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicao/112",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicao/378",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicao/336",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicao/321",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/curso-de-letras-do-ifpb-comemora-dez-anos-com-live",
+        "https://estudante.ifpb.edu.br/noticias/iv-encontro-de-educacao-a-distancia-discute-institucionalizacao-da-modalidade",
+        "https://estudante.ifpb.edu.br/noticias/abertas-472-vagas-para-especializacao-tecnica-em-guia-em-atrativo-turistico-cultural",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-divulga-resultado-da-analise-documental-do-sisu-20211",
+        "https://estudante.ifpb.edu.br/noticias/mec-prorroga-prazo-de-inscricoes-do-sisu",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-ofertara-vagas-em-ead-no-sisu-2021",
+        "https://estudante.ifpb.edu.br/noticias/sisu-20211-inscricoes-comecam-nesta-terca-feira",
+        "https://estudante.ifpb.edu.br/noticias/divulgados-novos-editais-de-confirmacao-de-matricula-da-pos-em-docencia-para-a-ept",
+        "https://estudante.ifpb.edu.br/noticias/sisu-20211-ifpb-oferta-1670-vagas",
+        "https://estudante.ifpb.edu.br/noticias/publicada-7a-chamada-para-pre-matricula-na-especializacao-em-docencia-para-a-ept",
+        "https://estudante.ifpb.edu.br/noticias/tag/ead"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/7": {
+      "checked_at": "2026-11-14T15:20:57.148407+00:00",
+      "hash": "1e67e62f96744d72670e4f23265c172a9c8bad6740d42c90744d453e369e31e5",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicao/478",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicao/476",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicao/473",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicao/474",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicao/475",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicao/472",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicao/477",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-abre-inscricoes-para-cursos-tecnicos-voltados-para-educacao-de-jovens-e-adultos-eja-ept",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-abre-230-vagas-para-educacao-de-jovens-e-adultos-em-varios-cursos",
+        "https://estudante.ifpb.edu.br/noticias/proeja-ultimos-dias",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-lanca-edital-de-selecao-com-mais-de-200-vagas-para-o-proeja",
+        "https://estudante.ifpb.edu.br/noticias/publicado-o-resultado-final-e-a-convocacao-para-pre-matricula-do-proeja-em-panificacao-2021",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-cajazeiras-inscreve-para-curso-em-meio-ambiente-na-modalidade-proeja",
+        "https://estudante.ifpb.edu.br/noticias/proeja-2021-inscricoes-ganham-novo-prazo-no-campus-cg",
+        "https://estudante.ifpb.edu.br/noticias/publicado-edital-para-preenchimento-de-vagas-remanescentes-no-proeja-panificacao",
+        "https://estudante.ifpb.edu.br/noticias/prorrogadas-as-inscricoes-para-o-curso-tecnico-em-agroindustria-pelo-proeja",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-abre-inscricoes-para-cursos-na-modalidade-educacao-de-jovens-e-adultos",
+        "https://estudante.ifpb.edu.br/noticias/tag/proeja"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://estudante.ifpb.edu.br/processoseletivo/processo/9": {
+      "checked_at": "2026-11-14T15:20:58.788801+00:00",
+      "hash": "50984d4ba2c187e2cc75034feb4f9a05b4074bbe9c96c693292a1c83d189afc6",
+      "links": [
+        "https://estudante.ifpb.edu.br/",
+        "https://estudante.ifpb.edu.br/cursos/contato",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/17",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/5",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/7",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/12",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/18",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/11",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/14",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/13",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/3",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/2",
+        "https://ifpb.edu.br/ti/catalogo-de-servicos-de-ti/sistemas-para-o-ensino-pesquisa-e-extensao/portal-do-estudante/tutorial-do-candidato",
+        "https://estudante.ifpb.edu.br/static/files/cartilha_espectro_autista.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos/Arquivos/manual-do-estudante-ifpb.pdf",
+        "https://ifpb.edu.br/pre/assuntos/guia-de-cursos/guia-de-cursos.pdf/view",
+        "https://estudante.ifpb.edu.br/static/files/res_240_2015_plano_acessibilidade.pdf",
+        "https://ifpb.edu.br/pre/assuntos/regulamentos",
+        "https://ifpb.edu.br/cpa",
+        "https://ifpb.edu.br/ead",
+        "http://ifpb.edu.br/areia",
+        "http://www.ifpb.edu.br/cabedelo",
+        "http://ifpb.edu.br/cabedelocentro",
+        "http://ifpb.edu.br/cajazeiras",
+        "http://ifpb.edu.br/campinagrande",
+        "http://ifpb.edu.br/catoledorocha",
+        "http://ifpb.edu.br/esperanca",
+        "http://ifpb.edu.br/guarabira",
+        "http://ifpb.edu.br/itabaiana",
+        "http://ifpb.edu.br/itaporanga",
+        "http://www.ifpb.edu.br/joaopessoa",
+        "http://ifpb.edu.br/mangabeira",
+        "http://ifpb.edu.br/monteiro",
+        "http://ifpb.edu.br/patos",
+        "http://ifpb.edu.br/pedrasdefogo",
+        "http://ifpb.edu.br/picui",
+        "http://ifpb.edu.br/princesaisabel",
+        "https://www.ifpb.edu.br/",
+        "http://ifpb.edu.br/santaluzia",
+        "http://ifpb.edu.br/santarita",
+        "http://ifpb.edu.br/soledade",
+        "http://ifpb.edu.br/sousa",
+        "https://ifpb.edu.br/pre",
+        "https://ifpb.edu.br/prpipg",
+        "https://ifpb.edu.br/proext",
+        "https://ifpb.edu.br/prae",
+        "https://ifpb.edu.br/praf",
+        "https://ifpb.edu.br/prpipg/inovacao/home",
+        "https://ifpb.edu.br/sinergia",
+        "https://ifpb.edu.br/polodeinovacao",
+        "https://estudante.ifpb.edu.br/noticias/assunto/campi",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-superior",
+        "https://estudante.ifpb.edu.br/noticias/assunto/ensino-tecnico",
+        "https://estudante.ifpb.edu.br/noticias/assunto/informacoes",
+        "https://estudante.ifpb.edu.br/noticias/assunto/extensao-pesquisa-e-pos",
+        "https://estudante.ifpb.edu.br/noticias/assunto/resultados-e-chamadas",
+        "https://estudante.ifpb.edu.br/noticias/assunto/bolsas-estagios-empregos",
+        "https://ifpb.edu.br/assessoria-internacional",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/480",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/481",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/479",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/482",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/468",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/461",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/452",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/399",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/409",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/408",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/351",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/442",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/447",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicoes",
+        "https://estudante.ifpb.edu.br/noticias/inscricoes-para-o-mestrado-em-educacao-profissional-e-tecnologica-estao-abertas-ate-dia-1501",
+        "https://estudante.ifpb.edu.br/noticias/profept-mestrado-profissional-atinge-a-marca-de-100-dissertacoes-publicadas",
+        "https://estudante.ifpb.edu.br/noticias/ifpb-publica-edital-para-exame-de-proficiencia-em-lingua-estrangeira-edicao-20251",
+        "https://estudante.ifpb.edu.br/noticias/lancado-edital-de-inscricoes-para-especializacao-em-ensino-de-matematica",
+        "https://estudante.ifpb.edu.br/noticias/divulgados-novos-editais-de-confirmacao-de-matricula-da-pos-em-docencia-para-a-ept",
+        "https://estudante.ifpb.edu.br/noticias/tag/pos-graduacao"
+      ],
+      "title": "Portal do Estudante | IFPB"
+    },
+    "https://ifsertaope.edu.br/": {
+      "checked_at": "2026-11-14T15:20:14.746704+00:00",
+      "hash": "197dc0b4fd7b3d3ea0f31c54a145d1fe9fb87956c2f9a1730b802d754ef6c117",
+      "links": [],
+      "title": "Radware Captcha Page"
+    },
+    "https://ifsertaope.edu.br/editais": {
+      "checked_at": "2026-11-14T15:20:14.445865+00:00",
+      "hash": "716c21610a3896fda933b05987fb36e20ef2ab8a93d5103755a58fe318810ca4",
+      "links": [],
+      "title": "Radware Captcha Page"
+    },
+    "https://www.ifpb.edu.br/": {
+      "checked_at": "2026-11-14T15:20:34.455161+00:00",
+      "hash": "386d9039b8218c19fbee56e9fd130a4ac8cfa51a0bc3b389de997b10d9585bd9",
+      "links": [
+        "https://www.ifpb.edu.br/institucional/historia",
+        "https://estudante.ifpb.edu.br/cursos",
+        "https://estudante.ifpb.edu.br/processoseletivo",
+        "https://www.ifpb.edu.br/pilares",
+        "https://www.ifpb.edu.br/campus",
+        "https://www.ifpb.edu.br/pro-reitoria",
+        "https://estudante.ifpb.edu.br/",
+        "https://www.ifpb.edu.br/acesso-rapido",
+        "https://estudante.ifpb.edu.br/processoseletivo/processo/1",
+        "https://www.ifpb.edu.br/destaques-do-ifpb/estrutura-que-impulsiona-seu-aprendizado",
+        "https://www.ifpb.edu.br/destaques-do-ifpb/preparacao-para-o-mundo-do-trabalho",
+        "https://www.ifpb.edu.br/editais",
+        "https://www.ifpb.edu.br/noticias/2026/11/ifpb-e-receita-federal-transformam-equipamentos-apreendidos-em-oportunidades-de-inclusao-digital-e-cidadania",
+        "https://www.ifpb.edu.br/noticias/2026/11/comeca-mudanca-de-setores-do-ifpb-para-a-nova-sede-da-reitoria",
+        "https://www.ifpb.edu.br/noticias/2026/11/dgti-renova-contrato-de-nuvem-para-garantir-seguranca-e-estabilidade-dos-servicos-do-ifpb",
+        "https://www.ifpb.edu.br/noticias/2026/11/sai-resultado-preliminar-de-selecao-para-compor-equipe-do-pec-ple-2027",
+        "https://www.ifpb.edu.br/ifsertaopbempauta"
+      ],
+      "title": "IFPB"
+    },
+    "https://www.ifpb.edu.br/campus": {
+      "checked_at": "2026-11-14T15:20:52.335246+00:00",
+      "hash": "3c781bd99863ac06d8217696ff0dfd0a7a8e13a32536e2fe8ef964a23f5ab20e",
+      "links": [
+        "https://www.ifpb.edu.br/campus/areia",
+        "https://www.ifpb.edu.br/campus/cabedelo",
+        "https://www.ifpb.edu.br/campus/cabedelocentro",
+        "https://www.ifpb.edu.br/campus/cajazeiras",
+        "https://www.ifpb.edu.br/campus/campinagrande",
+        "https://www.ifpb.edu.br/campus/catoledorocha",
+        "https://www.ifpb.edu.br/campus/esperanca",
+        "https://www.ifpb.edu.br/campus/guarabira",
+        "https://www.ifpb.edu.br/campus/itabaiana",
+        "https://www.ifpb.edu.br/campus/itaporanga",
+        "https://www.ifpb.edu.br/campus/joaopessoa",
+        "https://www.ifpb.edu.br/campus/mangabeira",
+        "https://www.ifpb.edu.br/campus/monteiro",
+        "https://www.ifpb.edu.br/campus/patos",
+        "https://www.ifpb.edu.br/campus/pedrasdefogo",
+        "https://www.ifpb.edu.br/campus/picui",
+        "https://www.ifpb.edu.br/campus/princesaisabel",
+        "https://www.ifpb.edu.br/campus/santaluzia",
+        "https://www.ifpb.edu.br/campus/santarita",
+        "https://www.ifpb.edu.br/campus/soledade",
+        "https://www.ifpb.edu.br/campus/sousa"
+      ],
+      "title": "Campi"
+    },
+    "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados": {
+      "checked_at": "2026-11-14T15:20:30.997128+00:00",
+      "hash": "b9210d643a989877f389f9dc5f98dbc1d431742c6f8ea60f2e489a8cb2377aa6",
+      "links": [
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/edital-148-2026-mulheres-mil-mobilizadora-social.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/anexo-i-do-edital-148-2026-pmm.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/inscricoes_confirmadas_148_2026_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/inscricoes_confirmadas_148_2026_final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/resultado_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/resultado-final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/convocacoes"
+      ],
+      "title": "Edital no 148/2026 – Programa Mulheres Mil + Cuidados"
+    },
+    "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/convocacoes": {
+      "checked_at": "2026-11-14T15:20:46.984562+00:00",
+      "hash": "40444e80d2147bcb6803f0b0d5f3740e456a8daf5e42fcbf984950d33d5aa130",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/edital-no-148-2026-compec-mobilizadora-social-programa-mulheres-mil",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/convocacao_mobilizadora_social___mangabeira_assinado.pdf"
+      ],
+      "title": "Edital no 148/2026 – COMPEC"
+    },
+    "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes": {
+      "checked_at": "2026-11-14T15:20:46.100652+00:00",
+      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "links": [
+        "https://www.ifpb.edu.br/",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes"
+      ],
+      "title": "COMPEC - Concursos"
+    },
+    "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil": {
+      "checked_at": "2026-11-14T15:20:31.729061+00:00",
+      "hash": "2e1470ff52273f04b4904b4019bca4db2368510880eb6d823ffb4c62b0674fcd",
+      "links": [
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/edital-151-2026-selecao-de-professores-pmm.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/anexo-ii-do-edita-151-2026.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/inscricoes_confirmadas_151_2026_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/resultado-preliminar-com-eliminados-ed151.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/resultado_final_comeliminados-2.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/convocacoes"
+      ],
+      "title": "Edital no 151/2026 – Vagas remanescentes – Programa Mulheres Mil"
+    },
+    "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/convocacoes": {
+      "checked_at": "2026-11-14T15:20:49.359222+00:00",
+      "hash": "2104d8fc51136874b19bc46148a96a77466c30432bf3a9d8ddcb6c36f9294622",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/convocacao_edital_n-c2-ba_151_2026_-_campus_catole_do_rocha_-_ana_e_debora_assinado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/convocacao-codedi-151-ss_assinado.pdf"
+      ],
+      "title": "Edital no 151/2026 – COMPEC"
+    },
+    "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes": {
+      "checked_at": "2026-11-14T15:20:48.463160+00:00",
+      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "links": [
+        "https://www.ifpb.edu.br/",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil/sistema-de-inscricoes"
+      ],
+      "title": "COMPEC - Concursos"
+    },
+    "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape": {
+      "checked_at": "2026-11-14T15:20:32.545183+00:00",
+      "hash": "d44667fb2d5211dd8efb1dc04c09c9db1709f7f5ef43575cd8b40de480af9791",
+      "links": [
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/edital-161-2026-selecao-de-professores-ted-apoio-a-implantacao-sape.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/anexo-i-do-edital-161-2026-selecao-de-professores-ted-apoio-a-implantacao-sape.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/anexo-ii-do-edita-161-2026-selecao-de-professores-ted-implantacao-sape.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/anexo-iii-do-edital-161-2026-selecao-de-professores-ted-implantacao-sape.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/anexo-iv-do-edital-161-2026-selecao-de-professores-ted-sape.pdf"
+      ],
+      "title": "Edital no 161/2026 – Seleção de Professor-Formador (Sapé)"
+    },
+    "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb": {
+      "checked_at": "2026-11-14T15:20:39.225690+00:00",
+      "hash": "58ac9bbf9ffa57307862f7aa721cdfee28287cc8e7551164666dddc464d4d3cd",
+      "links": [
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/edital-149_2026-de-abertura-professor-substituto.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/anexo-i.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/anexo-ii.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/anexo-iii.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/anexo-iv.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/pedidos_isencao_indeferido_149_2026.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/edital-149_2026-de-abertura-professor-substituto-1.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/inscricoes_confirmadas_149_2026_final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/edital-158-2026-de-divulgacao-da-banca-do-edital-149-2026.pdf",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/edital-159_2026-de-convocacao-para-prova-de-desempenho-do-edital-149-2026.pdf"
+      ],
+      "title": "Edital no 149/2026 - Professor Substituto do IFPB"
+    },
+    "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes": {
+      "checked_at": "2026-11-14T15:20:55.896721+00:00",
+      "hash": "e5932900e4ec6170378076b3f5727dabd99e0114d4b6a4516969b3278210831a",
+      "links": [
+        "https://www.ifpb.edu.br/",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/beab9b5a-0554-4ee8-8f8e-6e959520deb9",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/5f2dc447-4d9c-42cd-88be-c16728d70bd7",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/5c910444-3e0d-40be-bf4e-47a9f3c321f6",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/ee9e6a8c-3f49-4708-a5b9-d871a87ea9c4",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/cfca506a-b650-4c16-849c-5f3f6afd8db5",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/fe5c8307-9afb-4a54-ae29-f97cfe73034b",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/db596f1a-9a6d-473b-a49d-b9cc31e14537",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/64eae5c8-e830-49f8-bd29-561236d41fad",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc",
+        "https://www.ifpb.edu.br/processos_seletivos/concurso/250fafee-5745-4b0f-826e-d50d1b6bf30f",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/sistema-de-inscricoes"
+      ],
+      "title": "COMPEC - Concursos"
+    },
+    "https://www.ifpb.edu.br/editais": {
+      "checked_at": "2026-11-14T15:20:18.467212+00:00",
+      "hash": "c97e9379cc1b69e25b990dcb4fe87559a2653c7478d794cd0de25e0f02b0ded2",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2023/edital-de-ivs-indice-de-vulnerabilidade-social",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-01-2022-classificacao-pbp",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-151-2026-vagas-remanescentes-programa-mulheres-mil",
+        "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026"
+      ],
+      "title": "Editais"
+    },
+    "https://www.ifpb.edu.br/noticias/2026/11/comeca-mudanca-de-setores-do-ifpb-para-a-nova-sede-da-reitoria": {
+      "checked_at": "2026-11-14T15:20:37.105573+00:00",
+      "hash": "2a145a481ea39d5bb4f1d51dc72e8f6b088f732bc69521f65a70d98cd331cc1e",
+      "links": [],
+      "title": "Começa mudança de setores do IFPB para a nova sede da Reitoria"
+    },
+    "https://www.ifpb.edu.br/noticias/2026/11/dgti-renova-contrato-de-nuvem-para-garantir-seguranca-e-estabilidade-dos-servicos-do-ifpb": {
+      "checked_at": "2026-11-14T15:20:36.141196+00:00",
+      "hash": "ea4a9d2f1b68869b9aee52192df80dee9a93e0285df4d91b35926d7c3ca4fba0",
+      "links": [],
+      "title": "DGTI renova contrato de nuvem para garantir segurança e estabilidade dos serviços do IFPB"
+    },
+    "https://www.ifpb.edu.br/noticias/2026/11/ifpb-e-receita-federal-transformam-equipamentos-apreendidos-em-oportunidades-de-inclusao-digital-e-cidadania": {
+      "checked_at": "2026-11-14T15:20:37.870475+00:00",
+      "hash": "bda0e472186e01dc4db79efae3e14d6148d2e4a5548cc20f52b7d5e6aacfbbf1",
+      "links": [
+        "https://www.ifpb.edu.br/search"
+      ],
+      "title": "IFPB e Receita Federal transformam equipamentos apreendidos em oportunidades de inclusão digital e cidadania"
+    },
+    "https://www.ifpb.edu.br/noticias/2026/11/sai-resultado-preliminar-de-selecao-para-compor-equipe-do-pec-ple-2027": {
+      "checked_at": "2026-11-14T15:20:35.390677+00:00",
+      "hash": "86e1a640ba2671b6d95032a595308005fb006c37ab2c76a09bd22ecf171b3815",
+      "links": [],
+      "title": "Sai Resultado Preliminar de seleção para compor equipe do PEC-PLE 2027"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-01-2022-classificacao-pbp": {
+      "checked_at": "2026-11-14T15:20:32.957367+00:00",
+      "hash": "31fd1679b6c31a7695fe2a56d35dc820ff02fb9c6122637f0f597f2bc375352f",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-01-2022-classificacao-pbp/edital-prae-012022-pbp.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/search"
+      ],
+      "title": "Edital PRAE 01/2022 - Classificação PBP"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae": {
+      "checked_at": "2026-11-14T15:20:33.371798+00:00",
+      "hash": "2d6b9eb11d23023ceaf97d947a4e8f11942e6f626cc6af7302ca18b310dac6be",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/edital-032022-prae.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/qr-code-inscricao.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/servidores-aptos-comite-de-assistencia-estudantil.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/lista-de-inscritos-comite-de-assistencia-estudantil.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2022/edital-prae-03-2022-escolha-de-membros-para-o-cae/resultado-edital-032022-prae.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/search"
+      ],
+      "title": "Edital PRAE 03/2022 - Escolha de membros para o CAE"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2023/edital-de-ivs-indice-de-vulnerabilidade-social": {
+      "checked_at": "2026-11-14T15:20:33.837510+00:00",
+      "hash": "dc98cde388f3f3cd84432d43cec412d9897a82c0cea30b97d0346999e980f83d",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2023/edital-de-ivs-indice-de-vulnerabilidade-social/edital_ivs_pbp-docx_assinado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/search"
+      ],
+      "title": "Edital de IVS (Índice de Vulnerabilidade Social)"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae": {
+      "checked_at": "2026-11-14T15:20:34.271785+00:00",
+      "hash": "8a4d6d20e5e28d46d6e44746b7a7094057d5e55a6ad01b22eaf68030c264e4b4",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/edital-cae-2025.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/qr-code-formulario-de-inscricao.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/relacao-de-servidores-votacao-cae.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/resultado-do-processo-de-consulta-cae-2025.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/editais/2025/edital-01-2025-escolha-para-membros-do-cae/edital-no-01-2025-prae-cae.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prae/search"
+      ],
+      "title": "Edital 01/2025 - Escolha para membros do CAE"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec": {
+      "checked_at": "2026-11-14T15:20:28.830770+00:00",
+      "hash": "819936f09bbe712acd71f407a078073c3c1e195d3c255b0c464e548e9689f006",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/edital-no-130-2026-compec-programa-de-apoio-a-expansao-da-rede-federal",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/anexo_i_-_modelo_de_convocacao_-_site_assinado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/anexo_i_-_modelo_de_convocacao_-_site_assinado-1.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/convocacao_da_docente_rebeca_assinado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/convocacao_-_ted_codigo_3_e_28_assinado.pdf"
+      ],
+      "title": "Edital no 130/2026 – COMPEC"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-130-2026-compec/edital-no-130-2026-compec-programa-de-apoio-a-expansao-da-rede-federal": {
+      "checked_at": "2026-11-14T15:20:41.674241+00:00",
+      "hash": "bcde8c4bc3ff3901dfab869289bcd9e99905746392d609fca944581240db10f8",
+      "links": [
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/edital-130-2026-selecao-de-professores-ted-apoio-a-implantacao-sape-queimadas.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/anexo-i-do-edital-130-2026-selecao-de-professores-ted-apoio-a-implantacao-sape-queimadas.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/anexo-ii-do-edita-130-2026-selecao-de-professores-ted-implantacao-sape-queimadas.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/anexo-iii-do-edital-130-2026-selecao-de-professores-ted-implantacao-sape-queimada.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/anexo-iv-do-edital-130-2026-selecao-de-professores-ted-sape-queimadas.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/inscricoes_confirmadas_130_2026_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/inscricoes_confirmadas_130_2026_final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/resultado_preliminar_com_eliminados.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/resultado-final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/resultado-final-retificado.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas/convocacoes"
+      ],
+      "title": "Edital no 130/2026 – Seleção de Professor-Formador (Sapé e Queimadas)"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec": {
+      "checked_at": "2026-11-14T15:20:29.331995+00:00",
+      "hash": "9b0d728d661c2b268e305a3cb3a4b441a38e97e8e54e86ab0e7b8f895d331e52",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec/edital-no-147-2026-compec-apoio-as-atividades-academicas-e-administrativas-e-agente-de-cuidados-de-criancas-programa-mulheres-mil",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec/convocacao_apoio_ifpb_mamanguape_assinado.pdf"
+      ],
+      "title": "Edital no 147/2026 – COMPEC"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-147-2026-compec/edital-no-147-2026-compec-apoio-as-atividades-academicas-e-administrativas-e-agente-de-cuidados-de-criancas-programa-mulheres-mil": {
+      "checked_at": "2026-11-14T15:20:42.876456+00:00",
+      "hash": "0796579c34b11605c172f462d04321fefefd47816f74ac56bca8f8be762dacaf",
+      "links": [
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/edital-147-2026-apoio-administrativo-e-agentes-de-cuidado-mmil.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/anexo-i-edital-147-2026.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/anexo-ii-edital-147-2026.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/sistema-de-inscricoes",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/inscricoes_confirmadas_147_2026_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/inscricoes_confirmadas_147_2026_final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/resultado-e-inscricoes-eliminadas_147_2026_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/resultado-final-com-eliminados-edital-147.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-147-2026-selecao-de-apoio-e-agentes-para-o-programa-mulheres-mil/convocacoes"
+      ],
+      "title": "Edital no 147/2026 – Seleção de Apoio e Agentes para o Programa Mulheres Mil"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec": {
+      "checked_at": "2026-11-14T15:20:29.745721+00:00",
+      "hash": "40444e80d2147bcb6803f0b0d5f3740e456a8daf5e42fcbf984950d33d5aa130",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/edital-no-148-2026-compec-mobilizadora-social-programa-mulheres-mil",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/convocacao_mobilizadora_social___mangabeira_assinado.pdf"
+      ],
+      "title": "Edital no 148/2026 – COMPEC"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-148-2026-compec/edital-no-148-2026-compec-mobilizadora-social-programa-mulheres-mil": {
+      "checked_at": "2026-11-14T15:20:43.490744+00:00",
+      "hash": "b9210d643a989877f389f9dc5f98dbc1d431742c6f8ea60f2e489a8cb2377aa6",
+      "links": [
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/edital-148-2026-mulheres-mil-mobilizadora-social.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/anexo-i-do-edital-148-2026-pmm.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/sistema-de-inscricoes",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/inscricoes_confirmadas_148_2026_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/inscricoes_confirmadas_148_2026_final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/resultado_preliminar.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/resultado-final.pdf",
+        "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-148-2026-programa-mulheres-mil-cuidados/convocacoes"
+      ],
+      "title": "Edital no 148/2026 – Programa Mulheres Mil + Cuidados"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec": {
+      "checked_at": "2026-11-14T15:20:30.260659+00:00",
+      "hash": "2104d8fc51136874b19bc46148a96a77466c30432bf3a9d8ddcb6c36f9294622",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/convocacao_edital_n-c2-ba_151_2026_-_campus_catole_do_rocha_-_ana_e_debora_assinado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/convocacao-codedi-151-ss_assinado.pdf"
+      ],
+      "title": "Edital no 151/2026 – COMPEC"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb": {
+      "checked_at": "2026-11-14T15:20:20.082681+00:00",
+      "hash": "48e916d6b5ef9833e6befeb2b546e81fd77983e72b2dc7b08c27eec2e6416e2f",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/edital_de_composicao_do_conselho_editorial_retificado_assinado_assinado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/edital-n-01_2026-edit-composicao-do-conselho-editorial-2026-2028.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/anexo-ii-declaracao-de-ciencia-e-de-inexistencia-de-conflito-de-interesseses.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/formulario-de-inscricao",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/homologacao_das_inscricoes.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/cronograma-retificado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/resultado_preliminar_-282-29_assinado.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/resultado_final.pdf"
+      ],
+      "title": "Edital n° 01/2026 - Editora IFPB"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/formulario-de-inscricao": {
+      "checked_at": "2026-11-14T15:20:40.540856+00:00",
+      "hash": "619de383609aad203c0a87001ec55821bb3e51f92dd294f1971b9c188e227bfd",
+      "links": [],
+      "title": "Formulário de inscrição - Processo seletivo para composição do Conselho Editorial da Editora IFPB (biênio 2026-2028)"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026": {
+      "checked_at": "2026-11-14T15:20:19.045120+00:00",
+      "hash": "2b8bdad57d0f296654c141ea018a2cbc4ce29570f37e3b1925759bc59d95ec86",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026/edital-25-2026-artigos.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026/pfd-anexo-i-edital-25-2025.pdf"
+      ],
+      "title": "Edital PRPIPG no 25/2026"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026": {
+      "checked_at": "2026-11-14T15:20:23.458647+00:00",
+      "hash": "1c5144e72ddc2234ccf06e0995df576efd341f9a3c585d0dc81a1bd70da294c2",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026/edital-26_2026-connepi-meninas.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026/formulario-painel-meninas-na-ciencia-connepi-2026-resultado-preliminar.pdf"
+      ],
+      "title": "Edital PRPIPG no 26/2026"
+    },
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026": {
+      "checked_at": "2026-11-14T15:20:24.715919+00:00",
+      "hash": "19eae555830001a1c1b8b7d51667e8c6dfcd95496aecd49ad7fc95babfec45dc",
+      "links": [
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026/edital-connepi-robotica.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026/avaliacao-robotica-connepi.pdf",
+        "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026/avaliacao-robotica-final.pdf"
+      ],
+      "title": "Edital PRPIPG no 27/2026"
+    },
+    "https://www.ifpb.edu.br/search": {
+      "checked_at": "2026-11-14T15:20:54.889859+00:00",
+      "hash": "bc9512b61defe02f885467a3d4a55a773c52ac58bffabbd272a8a20f06270552",
+      "links": [
+        "https://www.ifpb.edu.br/campus/monteiro/editais/direcao-geral/2025-1/edital-no-34-2025/edital-dg-no-34-2025_dignidade-menstrual-2025.pdf/@@download/file",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2026/07/campus-joao-pessoa-convoca-candidatos-da-6a-lista-de-espera-do-sisu/sisu-5a-lista-de-espera.jpg",
+        "https://www.ifpb.edu.br/campus/joaopessoa/editais/direcao-ensino/2026/edital-no97-2026-diretoria-de-desenvolvimento-do-ensino",
+        "https://www.ifpb.edu.br/campus/cabedelocentro/editais/ensino/2026/edital-no-60-2026-dde-cc",
+        "https://www.ifpb.edu.br/servidor/tecnico-administrativo/reconhecimento-de-saberes-e-competencias-tae/normativos/in-rsc-ifpbifspb.pdf/@@download/file",
+        "https://www.ifpb.edu.br/campus/joaopessoa/editais/direcao-ensino/2026/edital-no-98-2026-diretoria-de-desenvolvimento-do-ensino",
+        "https://www.ifpb.edu.br/campus/itaporanga/noticias/resultado-final-da-1a-chamada-da-lista-de-espera-do-psct-2026-campus-itaporanga",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2026/02/campus-joao-pessoa-divulga-2a-lista-de-espera-do-psct-2026/psct-2026-1-2a-chamada-da-lista-de-espera.png",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/concluintes-do-curso-tecnico-integrado-em-edificacoes-do-ifpb-sao-convocados-para-a-pesquisa-de-avaliacao-do-inep/pesquisa-inep",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/curso-de-sistemas-de-telecomunicacoes-recebe-nota-4-em-avaliacao-do-mec",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/curso-de-sistemas-de-telecomunicacoes-recebe-nota-4-em-avaliacao-do-mec/selo_nota_4_site-1.jpg",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/dgdp-divulga-programacao-de-ferias-para-2025",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/dgdp-divulga-programacao-de-ferias-para-2025/programacao-de-ferias-para-2025",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/divulgada-programacao-da-19a-edicao-da-semana-de-educacao-ciencia-cultura-e-tecnologia",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/divulgada-programacao-da-19a-edicao-da-semana-de-educacao-ciencia-cultura-e-tecnologia/sect-2024",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/divulgado-resultado-final-da-selecao-para-o-programa-de-apoio-a-permanencia-do-estudante",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/divulgado-resultado-final-da-selecao-para-o-programa-de-apoio-a-permanencia-do-estudante/edital-no-40_2024-campus-joao-pessoa-pape-resultado-final.pdf/@@download/file",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/divulgado-resultado-final-da-selecao-para-o-programa-de-apoio-a-permanencia-do-estudante/pape-resultado-final.jpg",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/divulgados-resultados-preliminares-das-chamadas-para-sisu-pcst-pscs-e-pse",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/divulgados-resultados-preliminares-das-chamadas-para-sisu-pcst-pscs-e-pse/resultados-preliminares-das-chamadas-para-sisu-pcst-pscs-e-pse",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/estudantes-conquistam-ouro-prata-e-bronze-em-olimpiadas-de-matematica",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/estudantes-conquistam-ouro-prata-e-bronze-em-olimpiadas-de-matematica/emanueal",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/estudantes-conquistam-ouro-prata-e-bronze-em-olimpiadas-de-matematica/estudantes-recebem-homenagens",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/estudantes-conquistam-ouro-prata-e-bronze-em-olimpiadas-de-matematica/felipe-flor-com-os-pais",
+        "https://www.ifpb.edu.br/campus/joaopessoa/noticias/2024/11/evento-dialogos-inter-religiosos-construindo-uma-cultura-de-paz-e-realizado-no-campus-joao-pessoa"
+      ],
+      "title": "Search"
+    },
+    "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep": {
+      "checked_at": "2026-11-14T15:20:27.527662+00:00",
+      "hash": "40b44ea02a6d73565e7878e96776c8da2c68aa904aa6042f5eb2a23d61eda993",
+      "links": [
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep/edital-20-2026-dgep-ebtt.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep/edital-22-2026-dgep-ebtt-altera-edital-20-2026.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep/edital-24-2026-dgep-altera-edital-20-2026.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep/edital-25-2026-altera-edital-20-2026.pdf"
+      ],
+      "title": "Edital no 020/2026 - DGEP"
+    },
+    "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1": {
+      "checked_at": "2026-11-14T15:20:25.919583+00:00",
+      "hash": "12234c4594b8f2f901bed8bce091469fbc51bf52e1b6472acab9d5f6509bcd4b",
+      "links": [
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1/edital-13-2026-remocao-docente.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1/resultado-preliminar-edital-n-13_2026-dgep.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1/edital-n-14_2026-dgep-alteracao.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1/edital-13-2026-resultado-pos-recurso.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1/resultado-13-suap_-sistema-unificado-de-administracao-publica.pdf"
+      ],
+      "title": "Edital no 013/2026 - DGEP"
+    },
+    "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026": {
+      "checked_at": "2026-11-14T15:20:26.683196+00:00",
+      "hash": "8af78cb8ebc22152966132fb1bdd3c73fe9ef0e3b73de9c2bbbe0bd09474bde7",
+      "links": [
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026/edital-no-16_2026.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026/resultado-preliminar-edital-16-2026.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026/resultado-preliminar-apos-recursos-edital-16-2026.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-16-2026/resultado-final-edital-16-2026.pdf"
+      ],
+      "title": "Edital no 16/2026"
+    },
+    "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026": {
+      "checked_at": "2026-11-14T15:20:28.312916+00:00",
+      "hash": "784e4dd8696967bdfa86298ebf12f5a1b315ad4fa519f440604729cd738fce75",
+      "links": [
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026/edital-21-2026-dgep-tae.pdf",
+        "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026/edital-23-2026-dgep-altera-edital-21-2026.pdf"
+      ],
+      "title": "Edital no 021/2026"
+    }
+  },
+  "pdfs": {
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/anexo-ii-declaracao-de-ciencia-e-de-inexistencia-de-conflito-de-interesseses.pdf": "16035b229a58e7af93a7840b1a6beeb22859f7f9f97efed25f39ce121d132617",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/cronograma-retificado.pdf": "76eb494ca41e31dc799647a5305c46b3fd3ddbb2411244d929862c91b2b6fdbd",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/edital-n-01_2026-edit-composicao-do-conselho-editorial-2026-2028.pdf": "db41ab2f33c37880bbda2b32f08673b339c14bff4922199c7db35562cdb7b94d",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/edital_de_composicao_do_conselho_editorial_retificado_assinado_assinado.pdf": "79d3ecce63ec8552fc0ecc1c2e0f73155e0a4a672464134125d47cacc15cabfc",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/homologacao_das_inscricoes.pdf": "20ae1c2afe1da0d2d6597eb4c229da7f39d9d6f5566b953ea946849bd6b4c7e1",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/resultado_final.pdf": "7558541f68209068e031f3c5844b0900193438be8edfd93a1741e245431406fc",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-ndeg-01-2026-editora-ifpb/resultado_preliminar_-282-29_assinado.pdf": "520b2503ffea01611b51b3dbfce7b25e35c6f80d0bf9d80d5340b0bb7e110120",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026/edital-25-2026-artigos.pdf": "8eea6e3d17e93812d9957add4c0475178ca5905a8d2045fa94ab8b336e6b5e36",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-25-2026/pfd-anexo-i-edital-25-2025.pdf": "c7e2f87d548341166f05d16e544e2c64c600e658bc38dee8db41bc9d528f5239",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026/edital-26_2026-connepi-meninas.pdf": "6339c4e283fa59224b8477145573ce55bba77b734828c77179ea055302ab077b",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-26-2026/formulario-painel-meninas-na-ciencia-connepi-2026-resultado-preliminar.pdf": "396beaf3019a72d68dae33841804c6ecfb09f8b3babd6fadb07684abcaab65a5",
+    "https://www.ifpb.edu.br/pro-reitoria/prpipg/editais/2026/edital-prpipg-no-27-2026/edital-connepi-robotica.pdf": "f5d9cb89a937d77df253e86cf4fb31c297891cf1a86795ba2503305688cfffcb"
+  },
+  "sent": []
+}

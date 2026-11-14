@@ -1,0 +1,29 @@
+name: Monitor IFs v3 - Teste Telegram
+on:
+  workflow_dispatch:
+    inputs:
+      portal:
+        description: 'Portal a testar'
+        required: true
+        default: all
+        type: choice
+        options: [all, ifsertaope, ifpb, compec]
+permissions:
+  contents: read
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Testar ultima publicacao identificada por portal
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PORTAL: ${{ inputs.portal }}
+        run: python -m monitor.main --mode test-latest --portal "$PORTAL"
