@@ -117,12 +117,18 @@ def telegram_send(item, testing=False):
         raise RuntimeError('Telegram nao confirmou o envio')
 
 
-def reconcile(portal, documents, valid, observed_origins=None):
-    """Preserva baseline e pendencias; COMPEC alerta processos novos apos inicializacao.
+def _compec_process_for_reference(ref_key, ref_item, process_items):
+    """Relaciona referencia ao processo pelo identificador v3.7, sem alterar chaves."""
+    for process_key, process_item in process_items.items():
+        process_link = process_item.get('link', '')
+        ref_link = ref_item.get('link', '')
+        if process_link and ref_link and identifier('compec-ref', process_link, ref_link) == ref_key:
+            return process_key, process_item
+    return None, None
 
-    O baseline inicial evita avisar oportunidades antigas. Para IFPB/IFSertaoPE,
-    mantem-se a regra original: so alertar documentos novos de editais conhecidos.
-    """
+
+def reconcile(portal, documents, valid, observed_origins=None):
+    """Historico independente por portal; COMPEC agrupa processo e inscricao novos."""
     if not valid:
         LOG.warning('%s: coleta indisponivel; estado preservado', portal)
         return
@@ -136,14 +142,58 @@ def reconcile(portal, documents, valid, observed_origins=None):
     is_compec = portal.lower() == 'compec'
     new = 0
 
+    # Primeiro seleciona novos registros sem modificar os IDs persistidos.
+    candidates = {}
     for key, item in documents.items():
         if initialized and key not in known and key not in pending and key not in sent:
-            # COMPEC: a nova pagina de processo e uma oportunidade nova.
-            # Outros portais: preservar o comportamento existente.
             if is_compec or item.get('origin') in origins:
-                pending[key] = item
-                new += 1
+                candidates[key] = item
         known[key] = item
+
+    if is_compec and candidates:
+        # As chaves da v3.7 distinguem processos e referencias. Nao as recalcular.
+        processes = {
+            key: item for key, item in known.items()
+            if key == identifier('compec-processo',
+                                 (re.search(r'/concurso/([0-9a-f-]{36})', item.get('link', '')) or [None, ''])[1])
+            and item.get('kind') == 'Novo processo seletivo'
+        }
+        new_processes = {key for key in candidates if key in processes}
+        suppressed = 0
+        for key, item in candidates.items():
+            if item.get('kind') != 'Inscrição ou referência exclusiva COMPEC':
+                continue
+            process_key, process_item = _compec_process_for_reference(key, item, processes)
+            if process_item is None:
+                continue
+            if process_key in new_processes:
+                # Uma mensagem por processo novo. A referencia continua no historico.
+                if process_key not in pending:
+                    pending[process_key] = dict(candidates[process_key])
+                notice = pending[process_key]
+                if notice.get('link') == process_item.get('link'):
+                    notice['link'] = item['link']
+                    notice['origin'] = process_item['link']
+                    notice['description'] = (notice.get('description', '') +
+                                             ' | Link de inscrição disponível').strip(' |')
+                suppressed += 1
+                continue
+            # Referencia adicionada posteriormente: avisar com link do processo.
+            pending[key] = dict(item, origin=process_item['link'])
+            new += 1
+        for key, item in candidates.items():
+            if item.get('kind') == 'Inscrição ou referência exclusiva COMPEC':
+                if key in pending or _compec_process_for_reference(key, item, processes)[0] in new_processes:
+                    continue
+            if key not in pending:
+                pending[key] = item
+            new += 1
+        if suppressed:
+            LOG.info('COMPEC: %d referencias agrupadas aos processos novos', suppressed)
+    else:
+        for key, item in candidates.items():
+            pending[key] = item
+            new += 1
 
     if not documents and not initialized:
         LOG.warning('%s: sem dados para baseline', portal)
