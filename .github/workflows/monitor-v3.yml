@@ -1,50 +1,29 @@
-name: Monitor IFs Diego Tech - v3.2
+name: Monitor IFs v3 - Teste Telegram
 on:
   workflow_dispatch:
     inputs:
       portal:
-        description: Portal a testar
+        description: 'Portal a testar'
         required: true
         default: all
         type: choice
         options: [all, ifsertaope, ifpb, compec]
-  schedule:
-    - cron: '*/15 * * * *'
 permissions:
-  contents: write
-concurrency:
-  group: monitor-ifs-v32
-  cancel-in-progress: false
+  contents: read
 jobs:
-  monitor:
+  teste:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref_name }}
-          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Monitorar ou testar
+      - name: Testar ultima publicacao identificada por portal
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          PORTAL: ${{ inputs.portal || 'all' }}
-          MODE: ${{ github.event_name == 'schedule' && 'monitor' || 'test-latest' }}
-          IFS_MAX_DETAILS: '6'
-          COMPEC_MAX_PROCESSES: '12'
-        run: python -m monitor.main --mode "$MODE" --portal "$PORTAL"
-      - name: Persistir historico do monitoramento
-        if: always() && github.event_name == 'schedule'
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/ifsertaope.json data/ifpb.json data/compec.json 2>/dev/null || true
-          if ! git diff --cached --quiet; then
-            git commit -m 'chore: atualizar historico de publicacoes [skip ci]'
-            git push
-          fi
+          PORTAL: ${{ inputs.portal }}
+        run: python -m monitor.main --mode test-latest --portal "$PORTAL"
