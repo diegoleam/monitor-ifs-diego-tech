@@ -1,4 +1,4 @@
-"""COMPEC IFPB: processos recentes, tabelas de publicações e links oficiais.
+"""COMPEC IFPB v3.6: acompanha novos processos e inscricoes exclusivas.
 
 Compatível com monitor.common da série v3; não altera histórico nem Telegram.
 """
@@ -58,57 +58,52 @@ def pagination(soup, base):
     return urls
 
 
-def extract(soup, url, origin, title):
+def extract(soup, url, process_link, title):
+    """Apenas destinos exclusivos da COMPEC; paginas do IFPB ficam com o coletor IFPB."""
     found = {}
     scope = soup.select_one('main, #content, .content, article') or soup
-    ignored = []
-    for a in scope.select('a[href]'):
-        raw = (a.get('href') or '').strip()
-        if not raw or raw.lower().startswith(('#', 'javascript:', 'mailto:')):
-            continue
-        link = canonical(urljoin(url, raw))
-        path = urlparse(link).path.lower()
-        if not official(link) or any(s in path for s in SKIP):
-            continue
-        if link in (canonical(url), canonical(origin)):
-            continue
-        # Links de navegação entre abas de processos não são documentos.
-        if PAT.search(path) and not (EXT.search(link) or DOWNLOAD.search(path)):
-            continue
-        row = a.find_parent('tr')
-        item = row or a.find_parent(['li', 'article'])
-        if item is None:
-            item = a.find_parent('div')
-        context = clean(item.get_text(' ', strip=True)) if item else ''
-        label = clean(a.get_text(' ', strip=True) or a.get('title') or a.get('aria-label'))
-        if not label and row:
-            label = context[:180]
-        if not label:
-            label = path.rstrip('/').rsplit('/', 1)[-1] or 'Documento'
-        # A COMPEC pode publicar anexos por rotas sem extensão. Aceitar essas
-        # rotas somente em linhas/listas de publicações com texto documental.
-        direct = bool(EXT.search(link) or DOWNLOAD.search(path))
-        structured = bool((row or a.find_parent('li')) and DOC_WORDS.search(context))
-        descriptive = bool(DOC_WORDS.search(label) and ('/documentos/' in url or '/editais/' in url))
-        if not (direct or structured or descriptive):
-            if len(ignored) < 5 and (row or DOC_WORDS.search(context)):
-                ignored.append((label[:75], link[:180]))
-            continue
-        # Nunca transformar links de abas ou paginação em documentos.
-        if re.search(r'/(?:processos_seletivos|editais)/concurso/'+UUID+r'/(?:editais|documentos)/?$', path, re.I):
-            continue
-        if path.rstrip('/') in ('', '/processos_seletivos', '/editais'):
-            continue
-        date = DATE.search(context)
-        key = identifier(origin, link)
-        found[key] = dict(portal='COMPEC IFPB', kind='Documento publicado',
-                          edital=title, doc=label[:450],
-                          date=date.group(0) if date else '', link=link, origin=origin)
-    if not found:
-        LOG.info('COMPEC diagnostico: secao=%s links=%d amostras_ignoradas=%s',
-                 url, len(scope.select('a[href]')), ignored)
+    for row in scope.select('tr'):
+        cells = row.find_all('td', recursive=False)
+        for a in row.select('a[href]'):
+            raw = (a.get('href') or '').strip()
+            if not raw or raw.lower().startswith(('#', 'javascript:', 'mailto:')):
+                continue
+            link = canonical(urljoin(url, raw))
+            parsed = urlparse(link)
+            host = (parsed.hostname or '').lower()
+            if not official(link) or any(x in parsed.path.lower() for x in SKIP):
+                continue
+            # O portal IFPB ja acompanha seus editais e documentos.
+            if host in ('ifpb.edu.br', 'www.ifpb.edu.br'):
+                continue
+            if host == 'concursos.ifpb.edu.br':
+                # Links para abas, processo ou paginacao nao sao novas oportunidades.
+                if PAT.search(parsed.path):
+                    continue
+                if not (EXT.search(link) or DOWNLOAD.search(parsed.path)):
+                    continue
+            # A COMPEC usa links para inscricoes no Portal do Estudante.
+            if host != 'estudante.ifpb.edu.br' and host != 'concursos.ifpb.edu.br':
+                continue
+            action = clean(a.get_text(' ', strip=True))
+            if action.casefold() not in ('visitar', 'download', 'baixar', 'abrir', 'acessar', 'visualizar') and not DOC_WORDS.search(action):
+                continue
+            parts = [clean(td.get_text(' ', strip=True)) for td in cells]
+            parts = [v for v in parts if v and v.casefold() not in ('visitar', 'download', 'baixar', 'abrir', 'acessar', 'visualizar')]
+            label = max(parts, key=len) if parts else action
+            context = clean(row.get_text(' ', strip=True))
+            match = DATE.search(context)
+            key = identifier('compec-ref', process_link, link)
+            found[key] = dict(portal='COMPEC IFPB', kind='Inscrição ou referência exclusiva COMPEC',
+                              edital=title, doc=label[:450] or title,
+                              date=match.group(0) if match else '', link=link, origin=ROOT)
     return found
 
+
+def process_item(origin, title):
+    return dict(portal='COMPEC IFPB', kind='Novo processo seletivo',
+                edital=title, doc='Processo seletivo disponível na COMPEC',
+                date='', link=origin, origin=ROOT)
 
 def collect():
     max_pages = max(1, min(5, int(os.getenv('COMPEC_MAX_PAGES', '3'))))
@@ -144,6 +139,7 @@ def collect():
             continue
         heading = page.select_one('h1, h2') or page.title
         title = clean(heading.get_text(' ', strip=True)) if heading else 'Processo ' + uid
+        found[identifier('compec-processo', uid)] = process_item(origin, title)
         for suffix in (f'editais/concurso/{uid}/editais/',
                        f'processos_seletivos/concurso/{uid}/documentos/'):
             section = urljoin(ROOT, suffix)
@@ -152,6 +148,6 @@ def collect():
                 continue
             valid_sections += 1
             found.update(extract(sub, section, origin, title))
-    LOG.info('COMPEC: listagens validas=%d processos descobertos=%d secoes validas=%d documentos=%d',
+    LOG.info('COMPEC: listagens validas=%d processos descobertos=%d secoes validas=%d oportunidades=%d',
              listing_ok, len(discovered), valid_sections, len(found))
-    return found, valid_sections > 0
+    return found, listing_ok > 0 or valid_sections > 0
