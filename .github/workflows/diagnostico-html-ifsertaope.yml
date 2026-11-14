@@ -1,0 +1,19 @@
+name: Diagnostico HTML IFSertaoPE
+on:
+  workflow_dispatch:
+jobs:
+  diagnosticar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Instalar requests
+        run: python -m pip install requests
+      - name: Verificar HTML dos editais
+        run: python diagnostico_html_ifsertaope.py
