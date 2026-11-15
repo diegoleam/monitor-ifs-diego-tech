@@ -260,22 +260,29 @@ def reconcile_ifsertaope_v41(documents, valid):
     for key, item in listing.items():
         now = stamp(item)
         old = known.get(key)
-        if initialized and now and (cutoff is None or now > cutoff):
+        if initialized and now:
             if old is None:
-                event = dict(item)
-                event['kind'] = 'Novo edital'
-                event_key = identifier('ifs-v41-new', key)
-                if event_key not in sent and event_key not in pending:
-                    pending[event_key] = event
-                    count_new += 1
-            elif stamp(old) != now:
-                event = dict(item)
-                event['kind'] = 'Edital atualizado'
-                event['doc'] = 'Atualizacao registrada na listagem oficial'
-                event_key = identifier('ifs-v41-update', key, now.isoformat())
-                if event_key not in sent and event_key not in pending:
-                    pending[event_key] = event
-                    count_updated += 1
+                # Novo registro: evita alertar editais antigos que nao estavam
+                # na primeira coleta (ex.: mudanca na paginacao).
+                if cutoff is None or now > cutoff:
+                    event = dict(item)
+                    event['kind'] = 'Novo edital'
+                    event_key = identifier('ifs-v41-new', key)
+                    if event_key not in sent and event_key not in pending:
+                        pending[event_key] = event
+                        count_new += 1
+            else:
+                # Edital conhecido: compara com sua propria ultima atualizacao.
+                # Nao exige superar a data maxima dos demais editais.
+                old_stamp = stamp(old)
+                if old_stamp is not None and now > old_stamp:
+                    event = dict(item)
+                    event['kind'] = 'Edital atualizado'
+                    event['doc'] = 'Atualizacao registrada na listagem oficial'
+                    event_key = identifier('ifs-v41-update', key, now.isoformat())
+                    if event_key not in sent and event_key not in pending:
+                        pending[event_key] = event
+                        count_updated += 1
         # Nao retroceder a data de atualizacao em caso de resposta desatualizada.
         if old is None or (now and (stamp(old) is None or now >= stamp(old))):
             known[key] = item
