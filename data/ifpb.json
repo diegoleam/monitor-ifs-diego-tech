@@ -1801,6 +1801,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-95-2026-programa-mulheres-mil",
       "portal": "IFPB"
     },
+    "cb0006bce4b51354ff169cbc05620c1997dd9997d6ae19d0d39b81a6b27fa8f7": {
+      "date": "16/11/2026, 19:09",
+      "description": "3ª Convocação - Edital nº 151/2026 - Campus Queimadas (em implantação)",
+      "doc": "3ª Convocação",
+      "edital": "edital-no-151-2026-compec",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/anexo_i_-_convocacao_2026_-28funetec-29_edital_151_2026_-281-29_assinado.pdf",
+      "origin": "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec",
+      "portal": "IFPB"
+    },
     "cb6b160d842856e53fe16c7bcbb43760034e9682fe5733331b8eb412688bd195": {
       "date": "11/02/2026, 14:15",
       "description": "Divulga a relação preliminar de candidatos inscritos - Edital nº 2/2026 – Processo Seletivo Simplificado que visa selecionar professores formadores para a Bolsa-Formação Qualifica Mais EnergIFE, na modalidade Educação Presencial.",
@@ -2195,6 +2205,7 @@
   "pending": {},
   "sent": [
     "99811db6ee499ffe7c260a57840fb0d10c438fe0d18c7de7938963a88df54c4c",
-    "30e042791eb3aedebb2e39d9a26e88217efb58b460382f063f26077019e6edf0"
+    "30e042791eb3aedebb2e39d9a26e88217efb58b460382f063f26077019e6edf0",
+    "cb0006bce4b51354ff169cbc05620c1997dd9997d6ae19d0d39b81a6b27fa8f7"
   ]
 }
