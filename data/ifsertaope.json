@@ -733,7 +733,7 @@
     },
     "38aa4e1558d0a192aa07d803484a923b47cd6d70391db9d9b9b933d17ffbb37d": {
       "date": "28/09/2026",
-      "description": "Ultima atualizacao: 12/11/2026 19:27 | Categoria: Campus Floresta , Campus Ouricuri , Campus Petrolina , Campus Petrolina Zona Rural , Campus Salgueiro , Campus Santa Maria da Boa Vista , Campus Serra Talhada , Pesquisa e Inovação | Situacao: Vigente",
+      "description": "Ultima atualizacao: 16/11/2026 09:55 | Categoria: Campus Floresta , Campus Ouricuri , Campus Petrolina , Campus Petrolina Zona Rural , Campus Salgueiro , Campus Santa Maria da Boa Vista , Campus Serra Talhada , Pesquisa e Inovação | Situacao: Vigente",
       "doc": "Edital publicado no IFSertãoPE",
       "edital": "Edital n.° 128/2026 – Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação",
       "kind": "Novo edital",
@@ -1373,7 +1373,7 @@
     },
     "6ff45f0192e88187e3e5b1e284689d59760f06b254d9de33f1e94ed3e7f2dd60": {
       "date": "28/09/2026",
-      "description": "Ultima atualizacao: 12/11/2026 19:22 | Categoria: Campus Floresta , Campus Ouricuri , Campus Petrolina , Campus Petrolina Zona Rural , Campus Salgueiro , Campus Santa Maria da Boa Vista , Campus Serra Talhada , Pesquisa e Inovação | Situacao: Vigente",
+      "description": "Ultima atualizacao: 16/11/2026 09:56 | Categoria: Campus Floresta , Campus Ouricuri , Campus Petrolina , Campus Petrolina Zona Rural , Campus Salgueiro , Campus Santa Maria da Boa Vista , Campus Serra Talhada , Pesquisa e Inovação | Situacao: Vigente",
       "doc": "Edital publicado no IFSertãoPE",
       "edital": "Edital n.° 127/2026 – Programa Institucional de Bolsas de Iniciação Científica 2026",
       "kind": "Novo edital",
@@ -1903,7 +1903,7 @@
     },
     "9a8a25249701474fab10ab235dfd7c6ab02bb7a25af63e489b8836623677f9ff": {
       "date": "06/11/2026",
-      "description": "Ultima atualizacao: 12/11/2026 14:39 | Categoria: Ensino | Situacao: Vigente",
+      "description": "Ultima atualizacao: 16/11/2026 09:56 | Categoria: Ensino | Situacao: Vigente",
       "doc": "Edital publicado no IFSertãoPE",
       "edital": "Edital n.º 131/2026 – Processo seletivo para transferência interna e externa em cursos técnicos de nível médio",
       "kind": "Novo edital",
@@ -3043,5 +3043,9 @@
     }
   },
   "pending": {},
-  "sent": []
+  "sent": [
+    "213f260bb335f04bb1f0f7a54e43396c627cde018d2521b1aca19f15e6de32c5",
+    "192ac37ef30678d31597b33a6895258763a40e379a6630739c54b064bae9dd7a",
+    "7da2ad27b1f8e8d9d626d315c5b7a2694d8cb52350938161113537cf3a7ec618"
+  ]
 }
