@@ -144,6 +144,16 @@
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
+    "7e00727465fc18de2a03ba0b09256f2fed711aeca57caa846bc224904ba58fee": {
+      "date": "",
+      "description": "Inscrições: 16/11/2026 a 30/11/2026 | Situação: Inscrições abertas",
+      "doc": "Edital nº 21/2026",
+      "edital": "Proc Sel para Mestrado Profissional em Tecnologia da Informação",
+      "kind": "Novo processo seletivo",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/c4127b96-d3d4-4a2e-b261-25c686cc5145/",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
     "84972584d0743e0db9c91a78970ac272789489287d97dcd5a54ad69041ad0c7b": {
       "date": "",
       "description": "Inscrições: 01/10/2026 a 19/10/2026 | Situação: Em andamento",
@@ -251,6 +261,15 @@
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
+    "ce45d00a3dd4b1b8631e106b4d02503033c236932bc70a06d3b79957bc10cbff": {
+      "date": "",
+      "doc": "Documentos publicados no Portal do Estudante do IFPB",
+      "edital": "Proc Sel para Mestrado Profissional em Tecnologia da Informação",
+      "kind": "Inscrição ou referência exclusiva COMPEC",
+      "link": "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/482",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
     "cf33a6f3fdb01218040745ae5cf0f41d87df0fe1b655d0f7cf1fb0a2426935cc": {
       "date": "",
       "description": "Inscrições: 21/07/2026 a 05/08/2026 | Situação: Encerrado",
@@ -293,5 +312,7 @@
     }
   },
   "pending": {},
-  "sent": []
+  "sent": [
+    "7e00727465fc18de2a03ba0b09256f2fed711aeca57caa846bc224904ba58fee"
+  ]
 }
