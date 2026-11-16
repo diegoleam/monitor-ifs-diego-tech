@@ -452,7 +452,7 @@
       "portal": "IFPB"
     },
     "34e44df67ca6a8fef61e025920e627bb83342aed963b5af48640b995f5536c46": {
-      "date": "11/11/2026, 20:24",
+      "date": "16/11/2026, 14:37",
       "description": "Divulga o Edital nº 161/2026 de Abertura do Processo Seletivo Simplificado que visa selecionar profissionais interessados em atuar, na condição de professores formadores, nos cursos a serem ofertados pela Bolsa-Formação, na modalidade Educação Presencial.",
       "doc": "Edital nº 161/2026 - Seleção de Professor-Formador (Sapé)",
       "edital": "edital-no-161-2026-selecao-de-professor-formador-sape",
@@ -1361,6 +1361,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-119-2026-vagas-remanescentes-programa-mulheres-mil",
       "portal": "IFPB"
     },
+    "99811db6ee499ffe7c260a57840fb0d10c438fe0d18c7de7938963a88df54c4c": {
+      "date": "16/11/2026, 14:30",
+      "description": "",
+      "doc": "Sistema de Inscrições",
+      "edital": "edital-no-161-2026-selecao-de-professor-formador-sape",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/sistema-de-inscricoes",
+      "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape",
+      "portal": "IFPB"
+    },
     "9aadc0aff2dd961f70fc192aa83df0fe2a99ec36513d9e12428d26679d965d36": {
       "date": "11/11/2026, 20:28",
       "description": "ANEXO I - TERMO DE COMPROMISSO DO SERVIDOR EM EFETIVO EXERCÍCIO",
@@ -2173,5 +2183,7 @@
     }
   },
   "pending": {},
-  "sent": []
+  "sent": [
+    "99811db6ee499ffe7c260a57840fb0d10c438fe0d18c7de7938963a88df54c4c"
+  ]
 }

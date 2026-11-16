@@ -39,6 +39,16 @@
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
+    "23d443cc4b9d488479fc009ca03b2b244cc0eb66abe7c6102b6eb85ef7312eb9": {
+      "date": "",
+      "description": "Inscrições: 16/11/2026 a 30/11/2026 | Situação: Inscrições abertas",
+      "doc": "Edital nº 161/2026",
+      "edital": "Processo Seletivo Professor-Formador do Bolsa-Formação",
+      "kind": "Novo processo seletivo",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/3e01afd1-0a43-4889-ad34-19845583154f/",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
     "293960645c72a63ae40016007404de00977c247d4d424bc77ef23323c3e2b5e0": {
       "date": "",
       "description": "Inscrições: 09/11/2026 a 16/11/2026 | Situação: Inscrições abertas",
@@ -313,6 +323,7 @@
   },
   "pending": {},
   "sent": [
-    "7e00727465fc18de2a03ba0b09256f2fed711aeca57caa846bc224904ba58fee"
+    "7e00727465fc18de2a03ba0b09256f2fed711aeca57caa846bc224904ba58fee",
+    "23d443cc4b9d488479fc009ca03b2b244cc0eb66abe7c6102b6eb85ef7312eb9"
   ]
 }
