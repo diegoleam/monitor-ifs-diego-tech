@@ -191,6 +191,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-130-2026-selecao-de-professor-formador-sape-e-queimadas",
       "portal": "IFPB"
     },
+    "181d5fcca9a0037d8861ca514e36180aa71e1958de71b64fb9619e1fcb0581c4": {
+      "date": "16/11/2026, 23:38",
+      "description": "Divulga o Edital nº 161/2026 retificado pelo Edital nº 163/2026",
+      "doc": "Edital nº 161/2026 retificado pelo Edital nº 163/2026 - Seleção de Professor-Formador (Sapé)",
+      "edital": "edital-no-161-2026-selecao-de-professor-formador-sape",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/edital-161-2026-retificado-pelo-edital-163-selecao-de-professores-ted-apoio-a-implantacao-sape.pdf",
+      "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape",
+      "portal": "IFPB"
+    },
     "186235e71fe2263f82b60089d854ace8ec2c15b2e4eb9bad28c529555f1b7a13": {
       "date": "13/10/2026, 12:42",
       "description": "RETIFICADO - Processo seletivo para composição do Conselho Editorial da Editora IFPB Biênio 2026–2028",
@@ -1391,6 +1401,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape",
       "portal": "IFPB"
     },
+    "9a6566626d4011cb7aa68cd4ef399476ff9059e51eea0b28133c16307ed455e0": {
+      "date": "16/11/2026, 23:39",
+      "description": "",
+      "doc": "Respostas as impugnações do Edital nº 161/2026",
+      "edital": "edital-no-161-2026-selecao-de-professor-formador-sape",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape/resposta-a-impugnaccao-edital-161-2026-bolsa-formacao-sape.pdf",
+      "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape",
+      "portal": "IFPB"
+    },
     "9aadc0aff2dd961f70fc192aa83df0fe2a99ec36513d9e12428d26679d965d36": {
       "date": "11/11/2026, 20:28",
       "description": "ANEXO I - TERMO DE COMPROMISSO DO SERVIDOR EM EFETIVO EXERCÍCIO",
@@ -2216,6 +2236,8 @@
   "sent": [
     "99811db6ee499ffe7c260a57840fb0d10c438fe0d18c7de7938963a88df54c4c",
     "30e042791eb3aedebb2e39d9a26e88217efb58b460382f063f26077019e6edf0",
-    "cb0006bce4b51354ff169cbc05620c1997dd9997d6ae19d0d39b81a6b27fa8f7"
+    "cb0006bce4b51354ff169cbc05620c1997dd9997d6ae19d0d39b81a6b27fa8f7",
+    "181d5fcca9a0037d8861ca514e36180aa71e1958de71b64fb9619e1fcb0581c4",
+    "9a6566626d4011cb7aa68cd4ef399476ff9059e51eea0b28133c16307ed455e0"
   ]
 }
