@@ -421,6 +421,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb",
       "portal": "IFPB"
     },
+    "30e042791eb3aedebb2e39d9a26e88217efb58b460382f063f26077019e6edf0": {
+      "date": "16/11/2026, 17:42",
+      "description": "Resultado preliminar do Edital nº 21/2026 - DGEP",
+      "doc": "Resultado Preliminar",
+      "edital": "edital-no-21-2026",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026/resultado-preliminar-edital-no-21_2026-dgep.pdf",
+      "origin": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026",
+      "portal": "IFPB"
+    },
     "30f3975cef1d4709ad6398880029d57f0b943a78954594f0db4debf71007d781": {
       "date": "16/10/2026, 16:17",
       "description": "Divulga a relação final de candidatos inscritos - Edital nº 147/2026 – do Processo Seletivo Simplificado destinado à seleção de profissionais para atuação presencial, como Apoio às Atividades Acadêmicas e Administrativas ou Agente de Cuidados de Crianças, do PMMil",
@@ -2184,6 +2194,7 @@
   },
   "pending": {},
   "sent": [
-    "99811db6ee499ffe7c260a57840fb0d10c438fe0d18c7de7938963a88df54c4c"
+    "99811db6ee499ffe7c260a57840fb0d10c438fe0d18c7de7938963a88df54c4c",
+    "30e042791eb3aedebb2e39d9a26e88217efb58b460382f063f26077019e6edf0"
   ]
 }
