@@ -3,7 +3,7 @@ name: Monitor IFs Diego Tech - Automatico
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -32,6 +32,22 @@ jobs:
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
+
+      - name: Diagnosticar execucao
+        env:
+          EVENTO: ${{ github.event_name }}
+          AGENDAMENTO: ${{ github.event.schedule }}
+          EXECUCAO: ${{ github.run_number }}
+        run: |
+          echo "======================================"
+          echo "MONITOR IFs DIEGO TECH"
+          echo "======================================"
+          echo "Evento: $EVENTO"
+          echo "Agendamento: $AGENDAMENTO"
+          echo "Execucao: $EXECUCAO"
+          echo "Horario UTC: $(date -u '+%d/%m/%Y %H:%M:%S')"
+          echo "Horario Brasilia: $(TZ=America/Recife date '+%d/%m/%Y %H:%M:%S')"
+          echo "======================================"
 
       - name: Monitorar os tres portais
         env:
