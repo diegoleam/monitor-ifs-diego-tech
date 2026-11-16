@@ -663,7 +663,7 @@
     },
     "328a5d0facffb127ae8f97afde959ad508a5c74d4d8abd669cdb1bf029745703": {
       "date": "28/09/2026",
-      "description": "Ultima atualizacao: 30/10/2026 14:25 | Categoria: Ensino | Situacao: Vigente",
+      "description": "Ultima atualizacao: 16/11/2026 15:10 | Categoria: Ensino | Situacao: Vigente",
       "doc": "Edital publicado no IFSertãoPE",
       "edital": "Edital n.º 115/2026 – Processo Seletivo para os Cursos Técnicos de Nível Médio na Modalidade Subsequente (Pós-Médio)",
       "kind": "Novo edital",
@@ -793,7 +793,7 @@
     },
     "3c1281ed8da6874f03395c8ca586971e0907d2f3f3f9b1ad48ab0dc799992cb3": {
       "date": "28/09/2026",
-      "description": "Ultima atualizacao: 30/10/2026 14:25 | Categoria: Ensino | Situacao: Vigente",
+      "description": "Ultima atualizacao: 16/11/2026 15:07 | Categoria: Ensino | Situacao: Vigente",
       "doc": "Edital publicado no IFSertãoPE",
       "edital": "Edital n.º 114/2026 – Processo Seletivo para os Cursos Técnicos de Nível Médio na Modalidade Médio Integrado ao Técnico",
       "kind": "Novo edital",
@@ -1833,7 +1833,7 @@
     },
     "94733dfa7ed088fe733428f4ec322d3d9c773bdcc07453075cea02b1ecf228da": {
       "date": "28/09/2026",
-      "description": "Ultima atualizacao: 30/10/2026 14:25 | Categoria: Ensino | Situacao: Vigente",
+      "description": "Ultima atualizacao: 16/11/2026 15:11 | Categoria: Ensino | Situacao: Vigente",
       "doc": "Edital publicado no IFSertãoPE",
       "edital": "Edital n.º 125/2026 – Processo Seletivo para os Cursos Técnicos de Nível Médio na Modalidade Educação de Jovens e Adultos (Proeja) e Proeja FIC",
       "kind": "Novo edital",
@@ -3046,6 +3046,9 @@
   "sent": [
     "213f260bb335f04bb1f0f7a54e43396c627cde018d2521b1aca19f15e6de32c5",
     "192ac37ef30678d31597b33a6895258763a40e379a6630739c54b064bae9dd7a",
-    "7da2ad27b1f8e8d9d626d315c5b7a2694d8cb52350938161113537cf3a7ec618"
+    "7da2ad27b1f8e8d9d626d315c5b7a2694d8cb52350938161113537cf3a7ec618",
+    "ac8b5632434552efe5df7f9415a697d5a8b3be0ef48d7963f2ad0b93f3363cb8",
+    "a15148ddcffb67ecab1d027fd3c98cafb95b0cc25c5fc6e56bb6d179087dea10",
+    "b4d99c95476aa1548eb64f355b00e5c06100d8c6f90a03456bbbc6fcc57adce9"
   ]
 }
