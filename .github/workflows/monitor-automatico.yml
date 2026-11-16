@@ -2,8 +2,6 @@
 name: Monitor IFs Diego Tech - Automatico
 
 on:
-  schedule:
-    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
