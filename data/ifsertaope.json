@@ -891,6 +891,16 @@
       "origin": "https://ifsertaope.edu.br/editais/edital-n-o-89-2026",
       "portal": "IFSertãoPE"
     },
+    "447ee1704766d82afa751bce10d865fddaded0a8d6a09bdd45ac76264ea60400": {
+      "date": "28/09/2026",
+      "description": "Ultima atualizacao: 17/11/2026 12:48 | Categoria: Ensino | Situacao: Vigente",
+      "doc": "Edital publicado no IFSertãoPE",
+      "edital": "Edital n.º 115/2026 – Processo Seletivo para os Cursos Técnicos de Nível Médio na Modalidade Subsequente (Pós-Médio)",
+      "kind": "Novo edital",
+      "link": "https://ifsertaope.edu.br/editais/edital-n-o-115-2026",
+      "origin": "https://ifsertaope.edu.br/editais/edital-n-o-115-2026",
+      "portal": "IFSertãoPE"
+    },
     "46163d5cdbf6982653859df6cf59cbc57b97e757f7afb5b5160f5dcb9773ce8a": {
       "date": "08/01/2025",
       "description": "Ultima atualizacao: 27/01/2025 21:27 | Categoria: Campus Petrolina , Extensão | Situacao: Encerrado",
@@ -1099,6 +1109,16 @@
       "kind": "Novo edital",
       "link": "https://ifsertaope.edu.br/editais/edital-n-o-184-2025",
       "origin": "https://ifsertaope.edu.br/editais/edital-n-o-184-2025",
+      "portal": "IFSertãoPE"
+    },
+    "5abaa52df66fdee4cb0d2813c0cea913691b5ffd437606dc03b03b2ab6580850": {
+      "date": "28/09/2026",
+      "description": "Ultima atualizacao: 17/11/2026 12:49 | Categoria: Ensino | Situacao: Vigente",
+      "doc": "Edital publicado no IFSertãoPE",
+      "edital": "Edital n.º 125/2026 – Processo Seletivo para os Cursos Técnicos de Nível Médio na Modalidade Educação de Jovens e Adultos (Proeja) e Proeja FIC",
+      "kind": "Novo edital",
+      "link": "https://ifsertaope.edu.br/editais/edital-n-o-125-2026",
+      "origin": "https://ifsertaope.edu.br/editais/edital-n-o-125-2026",
       "portal": "IFSertãoPE"
     },
     "5ac6434ef8683e0db9f37a5be8be1b7258709ba9b486a08f0e92b3a0bc8625c0": {
@@ -2911,6 +2931,16 @@
       "origin": "https://ifsertaope.edu.br/editais/edital-52-2024-chamada-para-selecao-de-bolsistas-do-projeto-supera-sao-francisco-bahia-resgatando-a-viabilidade-da-ovinocultura-no-sertao-nordestino",
       "portal": "IFSertãoPE"
     },
+    "f5ecb3a6f892d0a18c09cf198ae9d1c1f88b7755bc5bda772900281516c07796": {
+      "date": "28/09/2026",
+      "description": "Ultima atualizacao: 17/11/2026 12:47 | Categoria: Ensino | Situacao: Vigente",
+      "doc": "Edital publicado no IFSertãoPE",
+      "edital": "Edital n.º 114/2026 – Processo Seletivo para os Cursos Técnicos de Nível Médio na Modalidade Médio Integrado ao Técnico",
+      "kind": "Novo edital",
+      "link": "https://ifsertaope.edu.br/editais/edital-n-o-114-2026",
+      "origin": "https://ifsertaope.edu.br/editais/edital-n-o-114-2026",
+      "portal": "IFSertãoPE"
+    },
     "f609af3ba458dbfafb346d2abba2b5e6db711978c10995ebd73c5eb8dabe66e4": {
       "date": "01/10/2025",
       "description": "Ultima atualizacao: 16/01/2026 17:05 | Categoria: Afastamento de Servidores , Gestão de Pessoas | Situacao: Vigente",
@@ -3060,6 +3090,9 @@
     "ac8b5632434552efe5df7f9415a697d5a8b3be0ef48d7963f2ad0b93f3363cb8",
     "a15148ddcffb67ecab1d027fd3c98cafb95b0cc25c5fc6e56bb6d179087dea10",
     "b4d99c95476aa1548eb64f355b00e5c06100d8c6f90a03456bbbc6fcc57adce9",
-    "8087c073edc7ef1312457e8a31ffc5ad4fa8482c5f624441d29082f7277c99f1"
+    "8087c073edc7ef1312457e8a31ffc5ad4fa8482c5f624441d29082f7277c99f1",
+    "7d22b65d973a3eb11af15a221a10351ec99e1f03ad313c2686ac40f7d2814548",
+    "b715fa4fca306cfb50e04e41b07027b2b4a2bb2a472ce94c9b1e074610424dc8",
+    "f3c4cd009d06289ffd51743e5373b1925ca981ecd578e75eb450985f501fe01f"
   ]
 }
