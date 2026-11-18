@@ -1221,6 +1221,16 @@
       "origin": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-13-2026-dgep-1",
       "portal": "IFPB"
     },
+    "7fa094c3e61816a7153bcbb726d25fc7f6f7cab07bca048a4d5457c36b4c5120": {
+      "date": "18/11/2026, 16:46",
+      "description": "Divulgação do resultado preliminar da prova de desempenho didático - Edital 149/2026 - Ampla Concorrência e PcD - habilitados, eliminados e reprovados (arquivo único em pdf).",
+      "doc": "Resultado Preliminar da Prova de Desempenho Didático do Edital nº 149/2026",
+      "edital": "edital-no-149-2026-professor-substituto-do-ifpb",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb/resultado_ampla_pcd.pdf",
+      "origin": "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-149-2026-professor-substituto-do-ifpb",
+      "portal": "IFPB"
+    },
     "830b22974ed80756be062b051574c7f472a5e4e894a3ced470c9a9d59ca2061f": {
       "date": "27/01/2026, 13:45",
       "description": "ANEXO I - TERMO DE COMPROMISSO DO SERVIDOR EM EFETIVO EXERCÍCIO",
@@ -2249,6 +2259,7 @@
     "cb0006bce4b51354ff169cbc05620c1997dd9997d6ae19d0d39b81a6b27fa8f7",
     "181d5fcca9a0037d8861ca514e36180aa71e1958de71b64fb9619e1fcb0581c4",
     "9a6566626d4011cb7aa68cd4ef399476ff9059e51eea0b28133c16307ed455e0",
-    "e0a020a9373a9de4c744650e8fb78beb0e5a759747d79901c0ee1485656d4aa9"
+    "e0a020a9373a9de4c744650e8fb78beb0e5a759747d79901c0ee1485656d4aa9",
+    "7fa094c3e61816a7153bcbb726d25fc7f6f7cab07bca048a4d5457c36b4c5120"
   ]
 }
