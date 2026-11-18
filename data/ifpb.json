@@ -181,6 +181,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-22-2026-programa-partiuif-professor-bolsista",
       "portal": "IFPB"
     },
+    "149a563fcfd7fcbbe0b5f0cb46d3144f966db26a7cd8285a600a30df27762c22": {
+      "date": "18/11/2026, 19:42",
+      "description": "4ª Convocação - Edital nº 151/2026 - Campus Santa Luzia",
+      "doc": "4ª Convocação",
+      "edital": "edital-no-151-2026-compec",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec/convocacao_6__santa_luzia_assinado.pdf",
+      "origin": "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec",
+      "portal": "IFPB"
+    },
     "175ea81575b74efa4a8d12888115a862603b33386174b6f992280684447188e8": {
       "date": "25/08/2026, 18:24",
       "description": "ANEXO IV – AUTORIZAÇÃO DO SETOR DE RECURSOS HUMANOS E ANUÊNCIA DA CHEFIA IMEDIATA",
@@ -2260,6 +2270,7 @@
     "181d5fcca9a0037d8861ca514e36180aa71e1958de71b64fb9619e1fcb0581c4",
     "9a6566626d4011cb7aa68cd4ef399476ff9059e51eea0b28133c16307ed455e0",
     "e0a020a9373a9de4c744650e8fb78beb0e5a759747d79901c0ee1485656d4aa9",
-    "7fa094c3e61816a7153bcbb726d25fc7f6f7cab07bca048a4d5457c36b4c5120"
+    "7fa094c3e61816a7153bcbb726d25fc7f6f7cab07bca048a4d5457c36b4c5120",
+    "149a563fcfd7fcbbe0b5f0cb46d3144f966db26a7cd8285a600a30df27762c22"
   ]
 }
