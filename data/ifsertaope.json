@@ -2501,6 +2501,16 @@
       "origin": "https://ifsertaope.edu.br/editais/edital-n-o-146-2026",
       "portal": "IFSertãoPE"
     },
+    "c4cda7aee161d71044fb68f48cfe4b5de0d8e64be218bb09018401d3271b1a34": {
+      "date": "18/11/2026",
+      "description": "Ultima atualizacao: 19/11/2026 08:44 | Categoria: Extensão | Situacao: Vigente",
+      "doc": "Edital publicado no IFSertãoPE",
+      "edital": "Edital n.º 136/2026 – Processo seletivo para submissão de projetos do Pipbex Técnico",
+      "kind": "Novo edital",
+      "link": "https://ifsertaope.edu.br/editais/edital-n-o-136-2026",
+      "origin": "https://ifsertaope.edu.br/editais/edital-n-o-136-2026",
+      "portal": "IFSertãoPE"
+    },
     "c5376eff9474841b3fec1994f9bd9f6055726f1a8123ce10894569bad92b9ac3": {
       "date": "16/05/2024",
       "description": "Ultima atualizacao: 19/09/2024 14:45 | Categoria: Extensão | Situacao: Encerrado",
@@ -3206,6 +3216,7 @@
     "bf564af85f4af8b294c2e5dce14659299e4fd1fe2b0afa6324616a4f31e909ce",
     "273b66f35e96672ac96158ff09c39dca057985ad2508bb05d57e668e2623bb9f",
     "eba69f36fc843fbac656c42dc5b6532aac7e23d5593d3f9fd398651e25fe8bfa",
-    "d94d4f1e1f6af2913b00c6a3807099ee44bc9ab0bc90d8b1b5eb656c0aebaad5"
+    "d94d4f1e1f6af2913b00c6a3807099ee44bc9ab0bc90d8b1b5eb656c0aebaad5",
+    "1f38fdbbcecbff75fc7cd8205cd2b243aa33a16e68196c0a320b4f6fe4ec2928"
   ]
 }
