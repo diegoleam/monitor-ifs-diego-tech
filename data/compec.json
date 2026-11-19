@@ -87,6 +87,16 @@
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
+    "42d658adff5a194bc9f4a75a9efd32c8f4d4fc4cee53a9f17d0d411c3d5f0c1c": {
+      "date": "",
+      "description": "Inscrições: 19/11/2026 a 03/12/2026 | Situação: Novo",
+      "doc": "Edital nº 162/2026",
+      "edital": "Processo Seletivo para Professor Educador no Curso Superior Bacharelado em Zootecnia",
+      "kind": "Novo processo seletivo",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/92ce8d29-7ba8-452c-aa35-355292dd84f1/",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
     "4f8a663413443f316520ba284033cf4309f580a1c95971a43c34389e38eb8451": {
       "date": "",
       "description": "Inscrições: 05/10/2026 a 23/11/2026 | Situação: Inscrições abertas",
@@ -321,7 +331,18 @@
       "portal": "COMPEC IFPB"
     }
   },
-  "pending": {},
+  "pending": {
+    "42d658adff5a194bc9f4a75a9efd32c8f4d4fc4cee53a9f17d0d411c3d5f0c1c": {
+      "date": "",
+      "description": "Inscrições: 19/11/2026 a 03/12/2026 | Situação: Novo",
+      "doc": "Edital nº 162/2026",
+      "edital": "Processo Seletivo para Professor Educador no Curso Superior Bacharelado em Zootecnia",
+      "kind": "Novo processo seletivo",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/92ce8d29-7ba8-452c-aa35-355292dd84f1/",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    }
+  },
   "sent": [
     "7e00727465fc18de2a03ba0b09256f2fed711aeca57caa846bc224904ba58fee",
     "23d443cc4b9d488479fc009ca03b2b244cc0eb66abe7c6102b6eb85ef7312eb9"
