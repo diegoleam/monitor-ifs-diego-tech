@@ -191,6 +191,16 @@
       "origin": "https://www.ifpb.edu.br/pro-reitoria/proexc/editais/extensao/editais-de-2026/edital-no-151-2026-compec",
       "portal": "IFPB"
     },
+    "165a7fb0bce038b1e5f2a7d84591e93ca9306490da1220dc5179de425f4b51d5": {
+      "date": "19/11/2026, 00:05",
+      "description": "ANEXO II - FICHA DE PONTUAÇÃO",
+      "doc": "ANEXO II",
+      "edital": "edital-no-162-2026-selecao-de-professor-educador-para-o-curso-superior-bacharelado-de-zootecnia",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-162-2026-selecao-de-professor-educador-para-o-curso-superior-bacharelado-de-zootecnia/anexo-ii-ficha-de-pontuacao-professor-educador-zootecnia.pdf",
+      "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-162-2026-selecao-de-professor-educador-para-o-curso-superior-bacharelado-de-zootecnia",
+      "portal": "IFPB"
+    },
     "175ea81575b74efa4a8d12888115a862603b33386174b6f992280684447188e8": {
       "date": "25/08/2026, 18:24",
       "description": "ANEXO IV – AUTORIZAÇÃO DO SETOR DE RECURSOS HUMANOS E ANUÊNCIA DA CHEFIA IMEDIATA",
@@ -1581,6 +1591,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-22-2026-programa-partiuif-professor-bolsista",
       "portal": "IFPB"
     },
+    "a873ace10b409456aa1c51a719392bca7f6ac1b391a1dbdea4b595f410ff9016": {
+      "date": "19/11/2026, 00:06",
+      "description": "",
+      "doc": "Sistema de Inscrições",
+      "edital": "edital-no-162-2026-selecao-de-professor-educador-para-o-curso-superior-bacharelado-de-zootecnia",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-162-2026-selecao-de-professor-educador-para-o-curso-superior-bacharelado-de-zootecnia/sistema-de-inscricoes",
+      "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-162-2026-selecao-de-professor-educador-para-o-curso-superior-bacharelado-de-zootecnia",
+      "portal": "IFPB"
+    },
     "a899b4e9ca607db5be6a7172d12a5077e796ddfb7dfad86025cc1d73174c04c6": {
       "date": "21/07/2026, 18:34",
       "description": "ANEXO I - TERMO DE COMPROMISSO DO SERVIDOR EM EFETIVO EXERCÍCIO",
@@ -2332,6 +2352,8 @@
     "e0a020a9373a9de4c744650e8fb78beb0e5a759747d79901c0ee1485656d4aa9",
     "7fa094c3e61816a7153bcbb726d25fc7f6f7cab07bca048a4d5457c36b4c5120",
     "149a563fcfd7fcbbe0b5f0cb46d3144f966db26a7cd8285a600a30df27762c22",
-    "6aee13aea173bbce0b3d0dc407a5d07375d744f23f759ffd041360af0b0ff4f5"
+    "6aee13aea173bbce0b3d0dc407a5d07375d744f23f759ffd041360af0b0ff4f5",
+    "165a7fb0bce038b1e5f2a7d84591e93ca9306490da1220dc5179de425f4b51d5",
+    "a873ace10b409456aa1c51a719392bca7f6ac1b391a1dbdea4b595f410ff9016"
   ]
 }
