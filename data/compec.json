@@ -242,6 +242,16 @@
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
+    "a04f74683e56dddf8cee54fa9afccb8a083e49c0d4c77d4fc5670fc1a1876fc2": {
+      "date": "",
+      "description": "Inscrições: 23/11/2026 a 29/11/2026 | Situação: Novo",
+      "doc": "Edital nº 164/2026",
+      "edital": "Processo Seletivo Simplificado para Professor Substituto",
+      "kind": "Novo processo seletivo",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/8f714bab-8b5c-4b42-8f06-af3c11a568b9/",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
     "ab5ba57444013197711b47211ec507a63ba553c502a9c93c0a7abe2bf13732c2": {
       "date": "",
       "description": "Inscrições: 22/07/2026 a 02/08/2026 | Situação: Encerrado",
@@ -335,6 +345,7 @@
   "sent": [
     "7e00727465fc18de2a03ba0b09256f2fed711aeca57caa846bc224904ba58fee",
     "23d443cc4b9d488479fc009ca03b2b244cc0eb66abe7c6102b6eb85ef7312eb9",
-    "42d658adff5a194bc9f4a75a9efd32c8f4d4fc4cee53a9f17d0d411c3d5f0c1c"
+    "42d658adff5a194bc9f4a75a9efd32c8f4d4fc4cee53a9f17d0d411c3d5f0c1c",
+    "a04f74683e56dddf8cee54fa9afccb8a083e49c0d4c77d4fc5670fc1a1876fc2"
   ]
 }
