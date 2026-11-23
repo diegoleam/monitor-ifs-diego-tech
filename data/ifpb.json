@@ -1461,6 +1461,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-161-2026-selecao-de-professor-formador-sape",
       "portal": "IFPB"
     },
+    "99858f811cf1d3f93c53ef4d0036463c4caa109d8922e9e07cdc422d03ef8705": {
+      "date": "23/11/2026, 19:25",
+      "description": "Resultado final do Edital nº 21/2026 - DGEP",
+      "doc": "Resultado final",
+      "edital": "edital-no-21-2026",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026/resultado-final-edital-21-2026.pdf",
+      "origin": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-21-2026",
+      "portal": "IFPB"
+    },
     "9a6566626d4011cb7aa68cd4ef399476ff9059e51eea0b28133c16307ed455e0": {
       "date": "16/11/2026, 23:39",
       "description": "",
@@ -2354,6 +2364,7 @@
     "149a563fcfd7fcbbe0b5f0cb46d3144f966db26a7cd8285a600a30df27762c22",
     "6aee13aea173bbce0b3d0dc407a5d07375d744f23f759ffd041360af0b0ff4f5",
     "165a7fb0bce038b1e5f2a7d84591e93ca9306490da1220dc5179de425f4b51d5",
-    "a873ace10b409456aa1c51a719392bca7f6ac1b391a1dbdea4b595f410ff9016"
+    "a873ace10b409456aa1c51a719392bca7f6ac1b391a1dbdea4b595f410ff9016",
+    "99858f811cf1d3f93c53ef4d0036463c4caa109d8922e9e07cdc422d03ef8705"
   ]
 }
