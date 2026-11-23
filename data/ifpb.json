@@ -861,6 +861,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-94-2026-programa-mulheres-mil-cuidados",
       "portal": "IFPB"
     },
+    "566fbdd308b6fccead5ea0f08c96496f6ec1bb0e82bbee1e434427c62fa46f85": {
+      "date": "23/11/2026, 19:28",
+      "description": "Resultado preliminar do Edital nº 20/2026 - DGEP",
+      "doc": "Resultado preliminar",
+      "edital": "edital-no-020-2026-dgep",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep/resultado-preliminar-edital-20-2026.pdf",
+      "origin": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep",
+      "portal": "IFPB"
+    },
     "56ff3206f173ff4c7f13cd423298ad069af1ffed34a472a667d8a110ec6759af": {
       "date": "08/09/2026, 14:33",
       "description": "Divulga a relação preliminar de candidatos inscritos - Edital nº 130/2026 do Processo Seletivo Simplificado que visa selecionar profissionais interessados em atuar, na condição de professores formadores, nos cursos a serem ofertados pela Bolsa-Formação, na modalidade Educação Presencial.",
@@ -2365,6 +2375,7 @@
     "6aee13aea173bbce0b3d0dc407a5d07375d744f23f759ffd041360af0b0ff4f5",
     "165a7fb0bce038b1e5f2a7d84591e93ca9306490da1220dc5179de425f4b51d5",
     "a873ace10b409456aa1c51a719392bca7f6ac1b391a1dbdea4b595f410ff9016",
-    "99858f811cf1d3f93c53ef4d0036463c4caa109d8922e9e07cdc422d03ef8705"
+    "99858f811cf1d3f93c53ef4d0036463c4caa109d8922e9e07cdc422d03ef8705",
+    "566fbdd308b6fccead5ea0f08c96496f6ec1bb0e82bbee1e434427c62fa46f85"
   ]
 }
