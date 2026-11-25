@@ -281,6 +281,16 @@
       "origin": "https://www.ifpb.edu.br/concursopublico/outros-editais/vigentes/edital-no-96-2026-bolsa-formacao-aquicultura",
       "portal": "IFPB"
     },
+    "1d10f879232c72339c3f66dcd4169a63914b26d449f47f8795187cd59d74429d": {
+      "date": "25/11/2026, 21:18",
+      "description": "",
+      "doc": "Sistema de Inscrições",
+      "edital": "edital-no-164-2026-professor-substituto-do-ifpb",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-164-2026-professor-substituto-do-ifpb/sistema-de-inscricoes",
+      "origin": "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-164-2026-professor-substituto-do-ifpb",
+      "portal": "IFPB"
+    },
     "1d934bd11cd6a57213f1d22f7cc8fb8f24f0263083c04738f1ad595138bb5b4f": {
       "date": "25/08/2026, 18:23",
       "description": "ANEXO II - FICHA DE AUTOAVALIAÇÃO",
@@ -2271,6 +2281,16 @@
       "origin": "https://www.ifpb.edu.br/servidor/editais/2026/edital-no-020-2026-dgep",
       "portal": "IFPB"
     },
+    "f2a89c806115b40443a0e5be4edbef774d89d161fa9b33177658f7ac19e13e5c": {
+      "date": "25/11/2026, 21:19",
+      "description": "Divulgação da relação de candidatos com pedidos de isenção de pagamento de inscrição deferidos e indeferidos (arquivo único em pdf) – emitidos pelo MDS/SISTAC em 25/11/2026 - Edital 164/2026 – professor substituto.",
+      "doc": "Pedidos de Isenção Deferidos e Indeferidos - Edital 164/2026",
+      "edital": "edital-no-164-2026-professor-substituto-do-ifpb",
+      "kind": "Documento publicado",
+      "link": "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-164-2026-professor-substituto-do-ifpb/pedidos_isencao_deferidos_indeferidos_164_2026.pdf",
+      "origin": "https://www.ifpb.edu.br/concursopublico/professor-substituto/vigentes/edital-no-164-2026-professor-substituto-do-ifpb",
+      "portal": "IFPB"
+    },
     "f2bc3e9faa982f7770959530830e809df77d822c254c03a082b3e90346b0ba88": {
       "date": "08/07/2026, 19:47",
       "description": "Divulga o resultado preliminar - Edital nº 102/2026 – do Processo Seletivo Simplificado destinado à seleção de profissionais para atuação presencial, como Apoio às Atividades Acadêmicas e Administrativas ou Agente de Cuidados de Crianças, do PMMil",
@@ -2376,6 +2396,8 @@
     "165a7fb0bce038b1e5f2a7d84591e93ca9306490da1220dc5179de425f4b51d5",
     "a873ace10b409456aa1c51a719392bca7f6ac1b391a1dbdea4b595f410ff9016",
     "99858f811cf1d3f93c53ef4d0036463c4caa109d8922e9e07cdc422d03ef8705",
-    "566fbdd308b6fccead5ea0f08c96496f6ec1bb0e82bbee1e434427c62fa46f85"
+    "566fbdd308b6fccead5ea0f08c96496f6ec1bb0e82bbee1e434427c62fa46f85",
+    "1d10f879232c72339c3f66dcd4169a63914b26d449f47f8795187cd59d74429d",
+    "f2a89c806115b40443a0e5be4edbef774d89d161fa9b33177658f7ac19e13e5c"
   ]
 }
