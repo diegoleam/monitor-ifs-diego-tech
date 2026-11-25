@@ -320,6 +320,16 @@
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
+    "dfc4726c559c1f87c63cb9b582481c9d0dca873c4072c1916a5c6e68b449495b": {
+      "date": "",
+      "description": "Inscrições: 25/11/2026 a 30/11/2026 | Situação: Novo",
+      "doc": "Edital nº 26/2026",
+      "edital": "Proc Sel para Especialização em Gestão Escolar",
+      "kind": "Novo processo seletivo",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/d8e60c7f-2504-4719-94ba-e2bab4ed2b5d/",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
     "e26d8c6600d45eec43608e842f3aa3613ba1ca70a5ee7fa4ec9428e698a8d7f6": {
       "date": "",
       "description": "Inscrições: 28/08/2026 a 07/09/2026 | Situação: Encerrado",
@@ -339,6 +349,15 @@
       "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/e9a9291c-0dfc-4eaf-9b64-6d0aaa8b9ccc/",
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
+    },
+    "ee6f662a136d6220208a398a08e436d044c8b370f2eff131e46cfb6d907bc3ce": {
+      "date": "",
+      "doc": "Documentos publicados no Portal do Estudante do IFPB",
+      "edital": "Proc Sel para Especialização em Gestão Escolar",
+      "kind": "Inscrição ou referência exclusiva COMPEC",
+      "link": "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/483",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
     }
   },
   "pending": {},
@@ -346,6 +365,7 @@
     "7e00727465fc18de2a03ba0b09256f2fed711aeca57caa846bc224904ba58fee",
     "23d443cc4b9d488479fc009ca03b2b244cc0eb66abe7c6102b6eb85ef7312eb9",
     "42d658adff5a194bc9f4a75a9efd32c8f4d4fc4cee53a9f17d0d411c3d5f0c1c",
-    "a04f74683e56dddf8cee54fa9afccb8a083e49c0d4c77d4fc5670fc1a1876fc2"
+    "a04f74683e56dddf8cee54fa9afccb8a083e49c0d4c77d4fc5670fc1a1876fc2",
+    "dfc4726c559c1f87c63cb9b582481c9d0dca873c4072c1916a5c6e68b449495b"
   ]
 }
