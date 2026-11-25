@@ -232,6 +232,15 @@
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
+    "9a113a77567d10c00bed6d5028453e1851683b8a7ae9d46d8b6205fefda23b9e": {
+      "date": "",
+      "doc": "Especialização em Ciência é 10 - 27/2026",
+      "edital": "Proc Sel para Especialização em Ensino de Ciências nos anos finais do Ensino Fundamental",
+      "kind": "Inscrição ou referência exclusiva COMPEC",
+      "link": "https://estudante.ifpb.edu.br/processoseletivo/processo/9/edicao/484",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
     "9bc43584809080a16f2b7e622a13d5649875947b2d662cef91e3ca517e6eefe5": {
       "date": "",
       "description": "Inscrições: 09/11/2026 a 16/11/2026 | Situação: Em andamento",
@@ -249,6 +258,16 @@
       "edital": "Processo Seletivo Simplificado para Professor Substituto",
       "kind": "Novo processo seletivo",
       "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/8f714bab-8b5c-4b42-8f06-af3c11a568b9/",
+      "origin": "https://concursos.ifpb.edu.br/",
+      "portal": "COMPEC IFPB"
+    },
+    "a462386ce11295379d9c7165e8657662b98a11b71bf929c4821980b85750df14": {
+      "date": "",
+      "description": "Inscrições: 25/11/2026 a 30/11/2026 | Situação: Novo",
+      "doc": "Edital nº 27/2026",
+      "edital": "Proc Sel para Especialização em Ensino de Ciências nos anos finais do Ensino Fundamental",
+      "kind": "Novo processo seletivo",
+      "link": "https://concursos.ifpb.edu.br/processos_seletivos/concurso/6e44a9f7-1e7a-4ee1-8b83-b70a96472762/",
       "origin": "https://concursos.ifpb.edu.br/",
       "portal": "COMPEC IFPB"
     },
@@ -366,6 +385,7 @@
     "23d443cc4b9d488479fc009ca03b2b244cc0eb66abe7c6102b6eb85ef7312eb9",
     "42d658adff5a194bc9f4a75a9efd32c8f4d4fc4cee53a9f17d0d411c3d5f0c1c",
     "a04f74683e56dddf8cee54fa9afccb8a083e49c0d4c77d4fc5670fc1a1876fc2",
-    "dfc4726c559c1f87c63cb9b582481c9d0dca873c4072c1916a5c6e68b449495b"
+    "dfc4726c559c1f87c63cb9b582481c9d0dca873c4072c1916a5c6e68b449495b",
+    "a462386ce11295379d9c7165e8657662b98a11b71bf929c4821980b85750df14"
   ]
 }
